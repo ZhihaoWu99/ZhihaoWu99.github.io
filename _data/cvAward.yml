@@ -1,3 +1,13 @@
+- title: Academic Service
+  type: nested_list
+  contents:
+    - title: <strong>Reviewer:</strong>
+      items: 
+        - IEEE Transactions on Network Science and Engineering
+        - IEEE Signal Processing Letters
+        - Information Sciences
+        - Neural Processing Letters
+
 - title: Honors and Awards
   type: time_table
   contents:
