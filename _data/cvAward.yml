@@ -1,15 +1,20 @@
-- title: Academic Service
-  type: nested_list
+# - title: Academic Service
+#   type: nested_list
+#   contents:
+#     - title: <strong>Journal Reviewer:</strong>
+#       items: 
+#         - IEEE Transactions on Network Science and Engineering
+#         - IEEE Signal Processing Letters
+#         - Information Sciences
+#         - Neural Processing Letters
+#     - title: <strong>Conference PC Member:</strong>
+#       items: 
+#         - ACM MM 2024
+- title: Academic Services
+  type: list
   contents:
-    - title: <strong>Journal Reviewer:</strong>
-      items: 
-        - IEEE Transactions on Network Science and Engineering
-        - IEEE Signal Processing Letters
-        - Information Sciences
-        - Neural Processing Letters
-    - title: <strong>Conference PC Member:</strong>
-      items: 
-        - ACM MM 2024
+    - <u>Journal Reviewer:</u> IEEE TNSE, IEEE SPL, Information Sciences, Neural Processing Letters, etc.
+    - <u>Conference PC Member:</u> ACM MM 2024.
 
 - title: Honors and Awards
   type: time_table
