@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: About Me
 permalink: /
 subtitle: 吴之昊, Master Student, <a href='https://ccds.fzu.edu.cn/'>College of Computer and Data Science, Fuzhou University</a>
 
