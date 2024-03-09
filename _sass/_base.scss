@@ -495,10 +495,18 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
+      // .preview {
+      //   width: 100%;
+      //   min-width: 80px;
+      //   max-width: 400px;
+      // }
       .preview {
         width: 100%;
-        min-width: 80px;
-        max-width: 400px;
+        min-width: 270px;
+        min-height: 130px;
+        max-height: 130px;
+        max-width: 270px;
+        margin-right: 1.5rem;
       }
       .abbr {
         height: 2rem;
