@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am currently a master student in College of Computer and Data Science, Fuzhou University, advised by [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm) and my mentor [Dr. Zhaoliang Chen](https://chenzl23.github.io/). During my master’s studies, I was also a visiting student/research assistant in School of Data Science, The Chinese University of Hong Kong, Shenzhen, advised by [Prof. Jicong Fan](https://jicongfan.github.io/). Before that, I majored in computer science and obtained my B.S. degree from the College of Computer and Data Science, Fuzhou University, in 2021. My research interests include graph neural networks, semi-supervised and unsupervised learning. I have published over 10 papers on esteemed conferences and journals, including NeurIPS, AAAI, IEEE TNNLS, IEEE TMM, Pattern Recognition, and Neural Networks, etc.
 
-:blue_book:[Google Scholar](https://scholar.google.com/citations?user=QDlGhPsAAAAJ)&nbsp;&nbsp;|&nbsp;&nbsp;:notebook:[Github](https://github.com/ZhihaoWu99)&nbsp;&nbsp;|&nbsp;&nbsp;:closed_book:[DBLP](https://dblp.org/pid/27/8792-3.html)
+[Google Scholar](https://scholar.google.com/citations?user=QDlGhPsAAAAJ)&nbsp;&nbsp;|&nbsp;&nbsp;[Github](https://github.com/ZhihaoWu99)&nbsp;&nbsp;|&nbsp;&nbsp;[DBLP](https://dblp.org/pid/27/8792-3.html)
 <br/>
 <!-- [个人简历（中文）](https://chenzl23.github.io/assets/pdf/Curriculum Vitae_CN.pdf)/ [Curriculum Vitae (English)](https://chenzl23.github.io/assets/pdf/Curriculum Vitae.pdf) (updated at 18.10.2023). -->
 
