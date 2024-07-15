@@ -7,7 +7,7 @@
       description:
         - Supervised by Prof. Shiping Wang
     - title: Research Assistant
-      institution: "School of Data Science, The Chinese University of Hong Kong\n\Division of Fundamental Research, Shenzhen Research Institute of Big Data, China."
+      institution: School of Data Science, The Chinese University of Hong Kong '&' Division of Fundamental Research, Shenzhen Research Institute of Big Data, China.
       year: 2023
       description:
         - Supervised by Prof. Jicong Fan
