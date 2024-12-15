@@ -14,8 +14,8 @@
  - title: Academic Services
    type: list
    contents:
-     - <strong>Journal Reviewer:</strong> IEEE TNSE, IEEE SPL, Neural Processing Letters.
-     - <strong>Conference PC Member:</strong> NeurIPS 2024, ECCV 2024, ACM MM 2024.
+     - <strong>Journal Reviewer:</strong> IEEE T-PAMI, IEEE T-NSE, IEEE SPL, Neural Processing Letters.
+     - <strong>Conference PC Member:</strong> ICML, ICLR, CVPR, WWW, AISTATS, NeurIPS, ECCV, ACM MM.
 
 - title: Honors and Awards
   type: time_table
