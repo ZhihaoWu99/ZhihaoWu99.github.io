@@ -1,27 +1,27 @@
 - title: Academic Service
- type: nested_list
- contents:
-   - title: <strong>Journal Reviewer:</strong>
-     items: 
-       - IEEE Transactions on Pattern Analysis and Machine Intelligence
-       - IEEE Transactions on Image Processing
-       - IEEE Transactions on Network Science and Engineering
-       - IEEE Signal Processing Letters
-       - Knowledge-Based Systems
-       - Information Sciences
-       - Neural Processing Letters
-   - title: <strong>Conference PC Member:</strong>
-     items: 
-       - ICLR 2025
-       - ICML 2025
-       - NeurIPS 2024
-       - CVPR 2025
-       - IJCAI 2025
-       - ECCV 2024
-       - ACM MM 2024
-       - WWW 2025
-       - AISTATS 2025
-        
+  type: nested_list
+  contents:
+    - title: <strong>Journal Reviewer:</strong>
+      items: 
+        - IEEE Transactions on Pattern Analysis and Machine Intelligence
+        - IEEE Transactions on Image Processing
+        - IEEE Transactions on Network Science and Engineering
+        - IEEE Signal Processing Letters
+        - Knowledge-Based Systems
+        - Information Sciences
+        - Neural Processing Letters
+    - title: <strong>Conference PC Member:</strong>
+      items: 
+        - ICLR 2025
+        - ICML 2025
+        - NeurIPS 2024
+        - CVPR 2025
+        - IJCAI 2025
+        - ECCV 2024
+        - ACM MM 2024
+        - WWW 2025
+        - AISTATS 2025
+
 # - title: Academic Services
 #   type: list
 #   contents:
