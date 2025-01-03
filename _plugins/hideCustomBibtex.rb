@@ -6,7 +6,11 @@
 	  keywords.each do |keyword|
 		input = input.gsub(/^.*#{keyword}.*$\n/, '')
 	  end
-
+      	  input = input.gsub(/author\s*=\s*{([^}]*)}/) do |match|
+           	author_field = $1
+          	author_field = author_field.gsub(/[†\*]/, '')
+          	"author = {#{author_field}}"
+          end
       return input
     end
   end
