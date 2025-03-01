@@ -6,17 +6,17 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Work Experience"
-    url: "/#-work-experience"
+  - title: "Experience"
+    url: "/#-experience"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
   - title: "Academic Service"
     url: "/#-academic-service"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Academic Service"
+    url: "/#-honors-and-awards"
 
 
 
