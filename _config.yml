@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhihao Wu - Homepage"
+title                    : "Zhihao Wu"
 description              : 
 repository               : "ZhihaoWu99/ZhihaoWu99.github.io"
 google_scholar_stats_use_cdn : true
