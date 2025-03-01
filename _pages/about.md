@@ -227,4 +227,4 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 - *2019* &nbsp; Gold Award of the 5th China International College Students 'Internet+' Innovation and Entrepreneurship Competition
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0fjdCJl4fo72Ie2Jqzb4qkfaC6ZyD-D_ojQ1Eg8P1yo&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=0fjdCJl4fo72Ie2Jqzb4qkfaC6ZyD-D_ojQ1Eg8P1yo"></script>
