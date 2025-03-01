@@ -17,52 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am currently a research assistant with the College of Computer Science and Technology, Zhejiang University. I received a master's degree from the College of Computer and Data Science, Fuzhou University, under the guidance of [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm) and my mentor [Dr. Zhaoliang Chen](https://chenzl23.github.io/). During my master's studies, I was also a visiting student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen, advised by [Prof. Jicong Fan](https://jicongfan.github.io/). Additionally, I was fortunate to collaborate closely with Prof. [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/) from the Department of Computer Science, Hong Kong Baptist University.
+Prior to this, I completed my B.E. in Computer Science at the College of Mathematics and Computer Science, Fuzhou University, in 2021. My research interests lie in graph-based machine learning and graph neural networks. I have published over 20 papers in prestigious conferences and journals, including NeurIPS, AAAI, IJCAI, ACM MM, IEEE Transactions on Image Processing (IEEE TIP), IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), IEEE Transactions on Multimedia (IEEE TMM), Pattern Recognition, and Neural Networks, etc. <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhihaoWu99%2FZhihaoWu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
-I am currently a Postdoc at the Department of Computer Science, Hong Kong Baptist University, working with [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/), [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. William Kwok-Wai Cheung](https://www.comp.hkbu.edu.hk/~william/).
-I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou University, in 2024, supervised by [Prof. Wenzhong Guo](https://ccds.fzu.edu.cn/info/1202/4993.htm) and [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm). Before that, I majored in software engineering and obtained my B.E. degree from the College of Mathematics and Computer Science, Fuzhou University, in 2019. From Oct 2022 to Oct 2023, I was also a joint Ph.D. student in Faculty of Computer Science, University of Vienna, Austria, supervised by [Prof. Claudia Plant](https://dm.cs.univie.ac.at/team/person/59835/). My research interests include graph neural networks, optimization-inspired deep learning and their applications. My studies have led to over 20 scientific publications <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhihaoWu99%2FZhihaoWu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on top-tier conferences and journals, including AAAI, ACM MM, IEEE TPAMI, IEEE TNNLS, IEEE TMM, IEEE TSP, ACM TKDD, Information Fusion, Neural Networks, etc.
+[Google Scholar](https://scholar.google.com/citations?user=QDlGhPsAAAAJ)&nbsp;&nbsp;|&nbsp;&nbsp;[Github](https://github.com/ZhihaoWu99)&nbsp;&nbsp;
 
-# 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2025 (CCF-A)!
-- *2024.09*: &nbsp;🎉🎉 I have joined Hong Kong Baptist University and started my postdoctoral research work!
-- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2024 (CCF-A)! Congrats to Jielong Lu!
-- *2024.06*: &nbsp;🎉🎉 I have graduated from Fuzhou University as an outstanding doctoral graduate！
-- *2024.05*: &nbsp;🎉🎉 I have successfully passed my doctoral thesis defense! 
+# 📰 News
+- *2024.12*: &nbsp;✨✨ Two papers have been accepted by *AAAI'25*, congrats to [Yunhe Zhang](https://scholar.google.com/citations?user=xODtRUwAAAAJ), Shuman Zhuang and other collaborators!
+- *2024.11*: &nbsp;✨✨ One paper has been accepted by *Neural Networks*, congrats to [Yuhong Chen](https://scholar.google.com/citations?user=l0LYH7kAAAAJ) and other collaborators!
+- *2024.09*: &nbsp;✨✨ One paper has been accepted by *IEEE TNSE*, congrats to Jie Lian and other collaborators!
+- *2024.07*: &nbsp;✨✨ One paper has been accepted by *Neural Networks*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!
+- *2024.07*: &nbsp;✨✨ Two paper have been accepted by *ACM MM'24*, congrats to [Jielong Lu](https://scholar.google.com/citations?user=kvhyb9UAAAAJ&hl=en), Shuman Zhuang and other collaborators!
+- *2024.06*: &nbsp;✨✨ I have graduated from Fuzhou University, honored with the Outstanding Graduate Award！
+- *2024.06*: &nbsp;✨✨ One paper has been accepted by *IEEE TSIPN*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!
+- *2024.04* One paper has been accepted by *IJCAI'24*, many thanks to my coauthors [Jiajun Yu](https://scholar.google.jp/citations?user=tCtMGUAAAAAJ), [Jinyu Cai](https://jinyucai95.github.io/), and [Jicong Fan](https://jicongfan.github.io/)!
+- *2024.03*: &nbsp;✨✨ One paper has been accepted by *Neural Networks*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!
+- *2024.02*: &nbsp;✨✨ One paper has been accepted by *IEEE TMM*, congrats to [Jielong Lu](https://scholar.google.com/citations?user=kvhyb9UAAAAJ&hl=en) and other collaborators!
+- *2024.02*: &nbsp;✨✨ One paper has been accepted by *Pattern Recognition*, many thanks to all my collaborators!
+- *2023.10*: &nbsp;✨✨ One paper has been accepted by *IEEE BIBM'23*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!
+- *2023.09*: &nbsp;✨✨ One paper has been accepted by *IEEE TNNLS*, congrats to Luying Zhong and other collaborators!
+- *2023.09*: &nbsp;✨✨ One paper has been accepted by *NeurIPS'23*, many thanks to my advisor [Prof. Jicong Fan](https://jicongfan.github.io/)!
+- *2023.09*: &nbsp;✨✨ One paper has been accepted by *Neural Networks*, congrats to Yuhong Chen and other collaborators!
+- *2023.04*: &nbsp;✨✨ One paper has been accepted by *IEEE TNNLS*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!
+- *2023.01*: &nbsp;✨✨ One paper has been accepted by *IEEE TMM*, many thanks to all my collaborators!
 
-# 📖 Work Experience
-- *2024.09 - Now*, Postdoc, Department of Computer Science, Hong Kong Baptist University, Hong Kong SAR, China.
+# 📖 Experience
+- *2024.06 - Now*, Research Assistant, College of Computer Science and Technology, Zhejiang University, China.
+- *2021.09 - 2024.06*, M.E. in Artificial Intelligence, College of Computer and Data Science, Fuzhou University, China.
+- *2023.2 - 2023.9*, Visiting Master Student, School of Data Science, The Chinese University of Hong Kong, Shenzhen, China.
+- *2017.09 - 2021.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
 
-# 📖 Educations
-- *2019.09 - 2024.06*, Ph.D., College of Computer and Data Science, Fuzhou University, China.
-- *2022.10 - 2023.10*, Joint Ph.D. Student funded by CSC, Faculty of Computer Science, University of Vienna, Austria.
-- *2015.09 - 2019.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
-
-
-# 📖 Academic Service
-- **Reviewers**
-  - IEEE Transactions on Image Processing (IEEE TIP)
-  - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
-  - IEEE Transactions on Multimedia (IEEE TMM)
-  - IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
-  - IEEE Transactions on Systems, Man, and Cybernetics Systems (IEEE TSMC)
-  - IEEE Transactions on Signal Processing (IEEE TSP)
-  - IEEE Signal Processing Letters
-  - Pattern Recognition
-  - Neural Networks
-  - Neural Processing Letters
-  - Artificial Intelligence Review
-  - Knowledge and Information Systems (KAIS)
-  - The Journal of Supercomputing
-  - ACM Transactions on Information Systems (TOIS)
-- **PC Members**
-  - KDD 2025
-  - ICML 2025
-  - CVPR 2025
-  - IJCAI 2025
-  - ACM MM 2024
-  - ECCV 2024
-  - NeurIPS 2024
-
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AGNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -290,5 +275,41 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
     *Pattern Recognition and Computer Vision, Volume 13020, Pages 54-65, 2021*. (CCF C)
 </div></div>
 
+# 📖 Academic Service
+- **Journal Reviewer**
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+  - IEEE Transactions on Image Processing
+  - IEEE Transactions on Neural Networks and Learning Systems
+  - IEEE/CAA Journal of Automatica Sinica
+  - IEEE Transactions on Network Science and Engineering
+  - IEEE Signal Processing Letters
+  - ACM Transactions on Knowledge Discovery from Data
+  - Pattern Recognition
+  - Neural Networks
+  - Knowledge-Based Systems
+  - Information Sciences
+  - Engineering Applications of Artificial Intelligence
+  - Neural Processing Letters
+- **Conference PC Member**
+  - ICLR 2025
+  - ICML 2025
+  - NeurIPS 2024, 2025
+  - CVPR 2025
+  - IJCAI 2025
+  - KDD 2025
+  - ICCV 2025
+  - ECCV 2024
+  - ACM MM 2024, 2025
+  - WWW 2025
+  - AISTATS 2025
+ 
+# ⭐ Honors and Awards
+- *2024* &nbsp; Outstanding Graduate Award of Fuzhou University
+- *2023* &nbsp; China National Scholarship of Postgraduates
+- *2023* &nbsp; First-Class Graduate Scholarship of Fuzhou University
+- *2022* &nbsp; First Prize of the 12th Cross-strait Information Service Innovation Contest
+- *2021* &nbsp; First-Class Graduate Scholarship of Fuzhou University
+- *2019* &nbsp; Gold Award of the 5th China International College Students 'Internet+' Innovation and Entrepreneurship Competition
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=333&t=tt&d=1ulB9ZQGFru21d-WVtCOCUjEViGcsvM4IKn-_xFkYZI&cmn=3e3acc'></script>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0fjdCJl4fo72Ie2Jqzb4qkfaC6ZyD-D_ojQ1Eg8P1yo&cl=ffffff&w=a"></script>
