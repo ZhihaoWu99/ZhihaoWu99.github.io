@@ -79,7 +79,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 <div class='paper-box-text' markdown="1">
 **[Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement](https://proceedings.neurips.cc/paper/2023/hash/3ec6c6fc9065aa57785eb05dffe7c3db-Abstract-Conference.html)**<br />
    Shuman Zhuang†, **Zhihao Wu**†, Zhaoliang Chen, Hong-Ning Dai, Ximeng Liu <br />
-   *AAAI Conference on Artificial Intelligence* <br />
+   *AAAI Conference on Artificial Intelligence 2025* <br />
 </div></div>
 
 <!-- 5. yu2023kerread -->
@@ -87,7 +87,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 <div class='paper-box-text' markdown="1">
 **[Kernel Readout for Graph Neural Networks](https://www.ijcai.org/proceedings/2024/0277.pdf)**<br />
    Jiajun Yu†, **Zhihao Wu**†, Jia Adele Lu, Jicong Fan <br />
-   *International Joint Conference on Artificial Intelligence* <br />
+   *International Joint Conference on Artificial Intelligence 2024* <br />
    [\[code\]](https://github.com/jiajunCAU/KerRead)
 </div></div>
 
@@ -105,7 +105,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 <div class='paper-box-text' markdown="1">
 **[Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks](DLRGAE_AAAI2023.pdf)**<br />
    Zhaoliang Chen, **Zhihao Wu**, Shiping Wang, Wenzhong Guo <br />
-   *AAAI Conference on Artificial Intelligence* <br />
+   *AAAI Conference on Artificial Intelligence 2023* <br />
    [\[code\]](https://github.com/chenzl23/DLRGAE)
 </div></div>
 
@@ -114,7 +114,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 <div class='paper-box-text' markdown="1">
 **[Towards Multi-view Consistent Graph Diffusion](https://dl.acm.org/doi/pdf/10.1145/3664647.3681258)**<br />
    Jielong Lu, **Zhihao Wu**, Zhaoliang Chen, Zhiling Cai, Shiping Wang <br />
-   *ACM International Conference on Multimedia* <br />
+   *ACM International Conference on Multimedia 2024* <br />
    [\[code\]](https://github.com/long319/ECMGD)
 </div></div>
 
@@ -159,7 +159,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 <div class='paper-box-text' markdown="1">
 **[Mixture of Experts as Representation Learner for Deep Multi-view Clustering](https://proceedings.neurips.cc/paper/2023/hash/3ec6c6fc9065aa57785eb05dffe7c3db-Abstract-Conference.html)**<br />
    Yunhe Zhang, Jinyu Cai, **Zhihao Wu**, Pengyang Wang, See-Kiong Ng <br />
-   *AAAI Conference on Artificial Intelligence* <br />
+   *AAAI Conference on Artificial Intelligence 2025* <br />
 </div></div>
 
 <!-- 14. du2024UMCGL -->
@@ -183,23 +183,24 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 <div class='paper-box-text' markdown="1">
 **[Enhancing Multi-view Graph Neural Network with Cross-view Confluent Message Passing](https://dl.acm.org/doi/pdf/10.1145/3664647.3681585)**<br />
    Shuman Zhuang, Sujia Huang, Wei Huang, Yuhong Chen, **Zhihao Wu**, Ximeng Liu <br />
-   *ACM International Conference on Multimedia* <br />
+   *ACM International Conference on Multimedia 2024* <br />
 </div></div>
 
-<!-- 17. zou2023revisiting -->
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUNET</div><img src='images/IHGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Revisiting Multi-view Learning: A Perspective of Implicitly Heterogeneous Graph Convolutional Network](JFGCN_NN2023.pdf)**<br />
    Ying Zou, Zihan Fang, **Zhihao Wu**, Chenghui Zheng, Shiping Wang <br />
    *Neural Networks* <br />
 </div></div>
+-->
 
 <!-- 18. HuangMKGCN2023 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='images/MKI-GCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Multi-level Knowledge Integration with Graph Convolutional Network for Cancer Molecular Subtype Classification](https://proceedings.neurips.cc/paper/2023/hash/3ec6c6fc9065aa57785eb05dffe7c3db-Abstract-Conference.html)**<br />
    Sujia Huang, Shunxin Xiao, Wenzhe Liu, Jielong Lu, **Zhihao Wu**, Jagath Rajapakse <br />
-   *IEEE International Conference on Bioinformatics and Biomedicine* <br />
+   *IEEE International Conference on Bioinformatics and Biomedicine 2023* <br />
 </div></div>
 
 
