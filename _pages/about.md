@@ -43,7 +43,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 - *2024.06 - Present*: &nbsp; Research Assistant, College of Computer Science and Technology, Zhejiang University, China.
 - *2021.09 - 2024.06*: &nbsp; M.E. in Artificial Intelligence, College of Computer and Data Science, Fuzhou University, China.
 - *2023.02 - 2023.09*: &nbsp; Visiting Student, School of Data Science, The Chinese University of Hong Kong, Shenzhen, China.
-- *2017.09 - 2021.06*: &nbsp; B.E., College of Mathematics and Computer Science, Fuzhou University, China
+- *2017.09 - 2021.06*: &nbsp; B.E. in Computer Science, College of Mathematics and Computer Science, Fuzhou University, China
 
 # 📝 Selected Publications 
 <p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:20px;">
