@@ -47,7 +47,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 
 # 📝 Selected Publications 
 <p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:20px;">
-† indicates equal contribution. Full list can be found on <a href="https://scholar.google.com/citations?user=你的谷歌学术ID" target="_blank">Google Scholar</a>.
+† indicates equal contribution. Full list can be found on <a href="https://scholar.google.com/citations?user=QDlGhPsAAAAJ" target="_blank">Google Scholar</a>.
 </p>
 
 <!-- 1. wu2023gckm -->
