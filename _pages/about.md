@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a research assistant with the College of Computer Science and Technology, Zhejiang University. I received a master's degree from the College of Computer and Data Science, Fuzhou University, under the guidance of [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm) and my mentor [Dr. Zhaoliang Chen](https://chenzl23.github.io/). During my master's studies, I was also a visiting student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen, advised by [Prof. Jicong Fan](https://jicongfan.github.io/). Additionally, I was fortunate to collaborate closely with Prof. [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/) from the Department of Computer Science, Hong Kong Baptist University.
-Prior to this, I completed my B.E. in Computer Science at the College of Mathematics and Computer Science, Fuzhou University, in 2021. My research interests lie in graph-based machine learning and graph neural networks. I have published over 20 papers in prestigious conferences and journals, including NeurIPS, AAAI, IJCAI, ACM MM, IEEE Transactions on Image Processing (IEEE TIP), IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), IEEE Transactions on Multimedia (IEEE TMM), Pattern Recognition, and Neural Networks, etc. <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhihaowu99%2Fzhihaowu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+Prior to this, I completed my B.E. in Computer Science at the College of Mathematics and Computer Science, Fuzhou University, in 2021. My research interests lie in graph-based machine learning and graph neural networks. I have published over 20 papers in prestigious conferences and journals, including NeurIPS, AAAI, IJCAI, ACM MM, IEEE Transactions on Image Processing (IEEE TIP), IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), IEEE Transactions on Multimedia (IEEE TMM), Pattern Recognition, and Neural Networks, etc. <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhihaowu99%2Fzhihaowu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📰 News
 - *2024.12*: &nbsp; Two papers have been accepted by *AAAI'25*, congrats to [Yunhe Zhang](https://scholar.google.com/citations?user=xODtRUwAAAAJ), Shuman Zhuang and other collaborators!✨✨
@@ -42,12 +42,12 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 # 📖 Experience
 - *2024.06 - Present*: &nbsp; Research Assistant, College of Computer Science and Technology, Zhejiang University, China.
 - *2021.09 - 2024.06*: &nbsp; M.E. in Artificial Intelligence, College of Computer and Data Science, Fuzhou University, China.
-- *2023.02 - 2023.09*: &nbsp; Visiting Master Student, School of Data Science, The Chinese University of Hong Kong, Shenzhen, China.
+- *2023.02 - 2023.09*: &nbsp; Visiting Student, School of Data Science, The Chinese University of Hong Kong, Shenzhen, China.
 - *2017.09 - 2021.06*: &nbsp; B.E., College of Mathematics and Computer Science, Fuzhou University, China
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AGNN.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AGNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing](https://doi.org/10.1109/TNNLS.2023.3271623)**,<br />
@@ -55,7 +55,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
    *IEEE Transactions on Neural Networks and Learning Systems, Volume 35(10), Pages 13764-13776, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/AGNN)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/AMOGCN.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/AMOGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://doi.org/10.1016/j.neunet.2024.106225)**,<br />
@@ -63,7 +63,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
    *Neural Networks, Volume 174, Page 106225, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/AMOGCN)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DLRGAE.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DLRGAE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks](https://doi.org/10.1609/aaai.v37i4.25536)**,<br />
@@ -71,7 +71,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
    *AAAI Conference on Artificial Intelligence, Volume 37(4), Pages 4191-4198, 2023*. (CCF A) \| [\[code\]](https://github.com/chenzl23/DLRGAE)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INF</div><img src='images/LGCN.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INF</div><img src='images/LGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
     
 **[Learnable Graph Convolutional Network and Feature Fusion for Multi-view Learning](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000532)**,<br />
@@ -79,7 +79,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
    *Information Fusion, Volume 95, Pages 109-119, 2023*. (SCI Q1, ESI Highly Cited) \| [\[code\]](https://github.com/chenzl23/LGCNFF)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/MGCNDNS.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/MGCNDNS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Multi-view Graph Convolutional Networks with Differentiable Node Selection](https://dl.acm.org/doi/abs/10.1145/3608954)**,<br />
@@ -87,7 +87,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
    *ACM Transactions on Knowledge Discovery from Data, Volume 18(1), Pages 1-21, 2023*. (CCF B)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/DLRL.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/DLRL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Efficient and Differentiable Low-rank Matrix Completion with Back Propagation](https://doi.org/10.1109/TMM.2021.3124087)**,<br />
@@ -95,7 +95,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
    *IEEE Transactions on Multimedia, Volume 25, Pages 5123-5135, 2023*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/DLRL)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/DSRL.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/DSRL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Learning Deep Sparse Regularizers With Applications to Multi-View Clustering](https://doi.org/10.1109/TPAMI.2021.3082632)**,<br />
@@ -103,7 +103,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
    *IEEE Transactions on Pattern Analysis and Machine Intelligence, Volume 44(12), Pages 9124-9138, 2022*. (CCF A, SCI Q1) \| [\[code\]](https://github.com/chenzl23/DSRL)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KAIS</div><img src='images/review.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KAIS</div><img src='images/review.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[A review on matrix completion for recommender systems](https://doi.org/10.1007/s10115-021-01629-6)**,<br />
@@ -111,7 +111,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
    *Knowledge and Information Systems, Volume 64(3), Volume 64, Pages 1–34, 2022*. (CCF B, SCI Q3)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/MKMC.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/MKMC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Kernel meets recommender systems: A multi-kernel interpolation for matrix completion](https://doi.org/10.1016/j.eswa.2020.114436)**,<br />
@@ -119,7 +119,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
    *Expert Systems with Applications, Volume 168, Page 114436, 2021*. (CCF B, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/GRAND.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/GRAND.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement**,<br />
@@ -127,7 +127,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *AAAI Conference on Artificial Intelligence, 2025*. (CCF A)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/SGIB.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/SGIB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Learnable Graph Convolutional Network With Semisupervised Graph Information Bottleneck](https://doi.org/10.1109/TNNLS.2023.3322739)**,<br />
@@ -136,7 +136,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ECMGD.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ECMGD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Towards Multi-view Consistent Graph Diffusion](https://openreview.net/forum?id=2AnSGzLiGs)**,<br />
@@ -144,7 +144,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *ACM Multimedia, 2024*. (CCF A, Oral 3.97%) 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/GEGCN.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/GEGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/abstract/document/10462517)**,<br />
@@ -153,7 +153,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/GCNet.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/GCNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158)**,<br />
@@ -161,7 +161,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *Pattern Recognition, Volume 150, Page 110567, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/ZhihaoWu99/GCNet)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC genomics</div><img src='images/DeepMoIC.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC genomics</div><img src='images/DeepMoIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[DeepMoIC: multi-omics data integration via deep graph convolutional networks for cancer subtype classification](https://link.springer.com/content/pdf/10.1186/s12864-024-11112-5.pdf)**,<br />
@@ -169,7 +169,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *BMC Genomics, Volume 25, 2024*. (SCI Q2)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA2024MESG.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA2024MESG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
     
 **[Multi-scale structure-guided graph generation for multi-view semi-supervised classification](https://doi.org/10.1016/j.eswa.2024.125677)**,<br />
@@ -177,7 +177,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *Expert Systems with Applications, Volume 237, Page 125677, 2025*. (CCF C, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/GLGCN.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/GLGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Geometric Localized Graph Convolutional Network for Multi-view Semi-supervised Classification](https://doi.org/10.1016/j.ins.2024.120769)**,<br />
@@ -185,7 +185,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *Information Sciences, Page 120769, 2024*. (CCF B, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/AMCGCN.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/AMCGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Adaptive Multi-channel Contrastive Graph Convolutional Network with Graph and Feature Fusion](https://doi.org/10.1016/j.ins.2023.120012)**,<br />
@@ -193,7 +193,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *Information Sciences, Volume 658, Page 120012, 2024*. (CCF B, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/JFGCN.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/JFGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Joint learning of feature and topology for multi-view graph convolutional network](https://doi.org/10.1016/j.neunet.2023.09.006)**,<br />
@@ -201,7 +201,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *Neural Networks, Volume 168, Pages 161-170, 2023*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/YuhongChen2320/JFGCN)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/IMVGCN.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/IMVGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning](https://doi.org/10.1109/TMM.2023.3260649)**,<br />
@@ -209,7 +209,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *IEEE Transactions on Multimedia, Volume 25, Pages 8593-8606, 2023*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/ZhihaoWu99/IMvGCN)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP</div><img src='images/CGCN.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP</div><img src='images/CGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Contrastive Graph Convolutional Networks with Generative Adjacency Matrix](https://doi.org/10.1109/TSP.2023.3254888)**,<br />
@@ -217,7 +217,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *IEEE Transactions on Signal Processing, Volume 71, Pages 772-785, 2023*. (CCF B, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/DFPGNN.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/DFPGNN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Dual Fusion-Propagation Graph Neural Network for Multi-View Clustering](https://doi.org/10.1109/TMM.2023.3248173)**,<br />
@@ -225,7 +225,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *IEEE Transactions on Multimedia, Volume 25, Pages 9203-9215, 2023*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/Xiaoshunxin/DFP-GNN)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/ULTLSE.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/ULTLSE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Unified Low-Rank Tensor Learning and Spectral Embedding for Multi-View Subspace Clustering](https://doi.org/10.1109/TMM.2022.3185886)**,<br />
@@ -233,7 +233,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *IEEE Transactions on Multimedia, Volume 25, Pages 4972-4985, 2022*. (CCF B, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/DDMF.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/DDMF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Diversity embedding deep matrix factorization for multi-view clustering](https://doi.org/10.1016/j.ins.2022.07.177)**,<br />
@@ -241,7 +241,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *Information Sciences, Volume 610, Pages 114-125, 2022*. (CCF B, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2021</div><img src='images/MLLTO.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2021</div><img src='images/MLLTO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Multi-View Learning Via Low-Rank Tensor Optimization](https://doi.org/10.1109/ICME51207.2021.9428291)**,<br />
@@ -249,7 +249,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *IEEE International Conference on Multimedia and Expo, Pages 1-6, 2021*. (CCF B)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/DRWDR.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/DRWDR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Deep random walk of unitary invariance for large-scale data representation](https://doi.org/10.1016/j.ins.2020.11.039)**,<br />
@@ -257,7 +257,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *Information Sciences, Volume 554, Pages 1-14, 2021*. (CCF B, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP</div><img src='images/EDBMC.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP</div><img src='images/EDBMC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Differentiable bi-Sparse multi-view co-clustering](https://doi.org/10.1109/TSP.2021.3101979)**,<br />
@@ -265,7 +265,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
     *IEEE Transactions on Signal Processing, Volume 69, Pages 4623-4636, 2021*. (CCF B, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2021</div><img src='images/MDGCN.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2021</div><img src='images/MDGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[A unified modular framework with deep graph convolutional networks for multi-label image recognition](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_5)**,<br />
