@@ -47,166 +47,159 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AGNN.png' alt="sym" width="100%"></div></div>
+<!-- 1. wu2023gckm -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/GCKM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-**[AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing](https://doi.org/10.1109/TNNLS.2023.3271623)**,<br />
-   **Zhaoliang Chen**, Zhihao Wu, Zhenghong Lin, Shiping Wang, Claudia Plant, Wenzhong Guo <br />
-   *IEEE Transactions on Neural Networks and Learning Systems, Volume 35(10), Pages 13764-13776, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/AGNN)
+**[Graph Convolutional Kernel versus Graph Convolutional Networks](https://proceedings.neurips.cc/paper_files/paper/2023/file/3ec6c6fc9065aa57785eb05dffe7c3db-Paper-Conference.pdf)**<br />
+   **Zhihao Wu**, Zhao Zhang, Jicong Fan <br />
+   *Advances in Neural Information Processing Systems* <br />
+   [\[code\]](https://github.com/ZhihaoWu99/GCKM)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/AMOGCN.jpg' alt="sym" width="100%"></div></div>
+<!-- 2. Interpretable2023Wu -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/IMvGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-**[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://doi.org/10.1016/j.neunet.2024.106225)**,<br />
-   **Zhaoliang Chen**, Zhihao Wu, Luying Zhong, Claudia Plant, Shiping Wang, Wenzhong Guo <br />
-   *Neural Networks, Volume 174, Page 106225, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/AMOGCN)
+**[Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning](IMVGCN-TMM2023.pdf)**<br />
+   **Zhihao Wu**, Xincan Lin, Zhenghong Lin, Zhaoliang Chen, Yang Bai, Shiping Wang <br />
+   *IEEE Transactions on Multimedia* <br />
+   [\[code\]](https://github.com/ZhihaoWu99/IMvGCN)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DLRGAE.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks](https://doi.org/10.1609/aaai.v37i4.25536)**,<br />
-   **Zhaoliang Chen**, Zhihao Wu, Shiping Wang, Wenzhong Guo <br />
-   *AAAI Conference on Artificial Intelligence, Volume 37(4), Pages 4191-4198, 2023*. (CCF A) \| [\[code\]](https://github.com/chenzl23/DLRGAE)
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INF</div><img src='images/LGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-    
-**[Learnable Graph Convolutional Network and Feature Fusion for Multi-view Learning](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000532)**,<br />
-   **Zhaoliang Chen**, Lele Fu, Jie Yao, Wenzhong Guo, Claudia Plant, Shiping Wang <br />
-   *Information Fusion, Volume 95, Pages 109-119, 2023*. (SCI Q1, ESI Highly Cited) \| [\[code\]](https://github.com/chenzl23/LGCNFF)
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/MGCNDNS.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Multi-view Graph Convolutional Networks with Differentiable Node Selection](https://dl.acm.org/doi/abs/10.1145/3608954)**,<br />
-   **Zhaoliang Chen**, Lele Fu, Shunxin Xiao, Shiping Wang, Claudia Plant, Wenzhong Guo <br />
-   *ACM Transactions on Knowledge Discovery from Data, Volume 18(1), Pages 1-21, 2023*. (CCF B)
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/DLRL.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Efficient and Differentiable Low-rank Matrix Completion with Back Propagation](https://doi.org/10.1109/TMM.2021.3124087)**,<br />
-   **Zhaoliang Chen**, Jie Yao, Guobao Xiao, Shiping Wang <br />
-   *IEEE Transactions on Multimedia, Volume 25, Pages 5123-5135, 2023*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/DLRL)
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/DSRL.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Learning Deep Sparse Regularizers With Applications to Multi-View Clustering](https://doi.org/10.1109/TPAMI.2021.3082632)**,<br />
-   Shiping Wang, **Zhaoliang Chen**, Shide Du, Zhouchen Lin <br />
-   *IEEE Transactions on Pattern Analysis and Machine Intelligence, Volume 44(12), Pages 9124-9138, 2022*. (CCF A, SCI Q1) \| [\[code\]](https://github.com/chenzl23/DSRL)
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KAIS</div><img src='images/review.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[A review on matrix completion for recommender systems](https://doi.org/10.1007/s10115-021-01629-6)**,<br />
-   **Zhaoliang Chen**, Shiping Wang <br />
-   *Knowledge and Information Systems, Volume 64(3), Volume 64, Pages 1–34, 2022*. (CCF B, SCI Q3)
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/MKMC.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Kernel meets recommender systems: A multi-kernel interpolation for matrix completion](https://doi.org/10.1016/j.eswa.2020.114436)**,<br />
-   **Zhaoliang Chen**, Wei Zhao, Shiping Wang <br />
-   *Expert Systems with Applications, Volume 168, Page 114436, 2021*. (CCF B, SCI Q1)
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/GRAND.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement**,<br />
-    Shuman Zhuang, Zhihao Wu, **Zhaoliang Chen**, Hong-Ning Dai, Ximeng Liu <br />
-    *AAAI Conference on Artificial Intelligence, 2025*. (CCF A)
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/SGIB.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Learnable Graph Convolutional Network With Semisupervised Graph Information Bottleneck](https://doi.org/10.1109/TNNLS.2023.3322739)**,<br />
-    Luying Zhong, **Zhaoliang Chen**, Zhihao Wu, Shide Du, Zheyi Chen, Shiping Wang <br />
-    *IEEE Transactions on Neural Networks and Learning Systems, Volume 36(1), Page 433-446, 2025*. (CCF B, SCI Q1)
-</div></div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ECMGD.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Towards Multi-view Consistent Graph Diffusion](https://openreview.net/forum?id=2AnSGzLiGs)**,<br />
-    Jielong Lu, Zhihao Wu, **Zhaoliang Chen**, Zhiling Cai, Shiping Wang <br />
-    *ACM Multimedia, 2024*. (CCF A, Oral 3.97%) 
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/GEGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/abstract/document/10462517)**,<br />
-    Jielong Lu, Zhihao Wu, Luying Zhong, **Zhaoliang Chen**, Hong Zhao, Shiping Wang <br />
-    *IEEE Transactions on Multimedia, Volume 26, Pages 7987-7999, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/long319/GEGCN)
-</div></div>
-
-
+<!-- 3. elastic2024Wu -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/GCNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-**[Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158)**,<br />
-    Zhihao Wu, **Zhaoliang Chen**, Shide Du, Sujia Huang, Shiping Wang <br />
-    *Pattern Recognition, Volume 150, Page 110567, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/ZhihaoWu99/GCNet)
+**[Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158)**<br />
+   **Zhihao Wu**, Zhaoliang Chen, Shide Du, Sujia Huang, Shiping Wang <br />
+   *Pattern Recognition* <br />
+   [\[code\]](https://github.com/ZhihaoWu99/GCNet)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC genomics</div><img src='images/DeepMoIC.png' alt="sym" width="100%"></div></div>
+<!-- 4. zhuang2024grand -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/GRAND.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-**[DeepMoIC: multi-omics data integration via deep graph convolutional networks for cancer subtype classification](https://link.springer.com/content/pdf/10.1186/s12864-024-11112-5.pdf)**,<br />
-    Jiecheng Wu, **Zhaoliang Chen**, Shunxin Xiao, Genggeng Liu, Wenjie Wu, Shiping Wang <br />
-    *BMC Genomics, Volume 25, 2024*. (SCI Q2)
+**[Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement](https://proceedings.neurips.cc/paper/2023/hash/3ec6c6fc9065aa57785eb05dffe7c3db-Abstract-Conference.html)**<br />
+   Shuman Zhuang†, **Zhihao Wu**†, Zhaoliang Chen, Hong-Ning Dai, Ximeng Liu <br />
+   *AAAI Conference on Artificial Intelligence* <br />
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA2024MESG.png' alt="sym" width="100%"></div></div>
+<!-- 5. yu2023kerread -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/KerRead.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-    
-**[Multi-scale structure-guided graph generation for multi-view semi-supervised classification](https://doi.org/10.1016/j.eswa.2024.125677)**,<br />
-    Yilin Wu, **Zhaoliang Chen**, Ying Zou, Shiping Wang, Wenzhong Guo <br />
-    *Expert Systems with Applications, Volume 237, Page 125677, 2025*. (CCF C, SCI Q1)
+**[Kernel Readout for Graph Neural Networks](https://www.ijcai.org/proceedings/2024/0277.pdf)**<br />
+   Jiajun Yu†, **Zhihao Wu**†, Jia Adele Lu, Jicong Fan <br />
+   *International Joint Conference on Artificial Intelligence* <br />
+   [\[code\]](https://github.com/jiajunCAU/KerRead)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/GLGCN.jpg' alt="sym" width="100%"></div></div>
+<!-- 6. Wang0CC23 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/tsGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-**[Geometric Localized Graph Convolutional Network for Multi-view Semi-supervised Classification](https://doi.org/10.1016/j.ins.2024.120769)**,<br />
-    Aiping Huang, Jielong Lu, Zhihao Wu, **Zhaoliang Chen**, Yuhong Chen, Shiping Wang, Hehong Zhang <br />
-    *Information Sciences, Page 120769, 2024*. (CCF B, SCI Q1)
+**[Beyond Graph Convolutional Network: An Interpretable Regularizer-Centered Optimization Framework](tsGCN-AAAI2023.pdf)**<br />
+   Shiping Wang, **Zhihao Wu**, Yuhong Chen, Yong Chen <br />
+   *AAAI Conference on Artificial Intelligence* <br />
+   [\[code\]](https://github.com/ZhihaoWu99/tsGCN)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/AMCGCN.jpg' alt="sym" width="100%"></div></div>
+<!-- 7. ChenDLRGAE22 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DLRGAE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-**[Adaptive Multi-channel Contrastive Graph Convolutional Network with Graph and Feature Fusion](https://doi.org/10.1016/j.ins.2023.120012)**,<br />
-    Luying Zhong, Jielong Lu, **Zhaoliang Chen**, Na Song, Shiping Wang <br />
-    *Information Sciences, Volume 658, Page 120012, 2024*. (CCF B, SCI Q1)
+**[Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks](DLRGAE_AAAI2023.pdf)**<br />
+   Zhaoliang Chen, **Zhihao Wu**, Shiping Wang, Wenzhong Guo <br />
+   *AAAI Conference on Artificial Intelligence* <br />
+   [\[code\]](https://github.com/chenzl23/DLRGAE)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/JFGCN.jpg' alt="sym" width="100%"></div></div>
+<!-- 8. lu2024towards -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ECMGD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-**[Joint learning of feature and topology for multi-view graph convolutional network](https://doi.org/10.1016/j.neunet.2023.09.006)**,<br />
-    Yuhong Chen, Zhihao Wu, **Zhaoliang Chen**, Mianxiong Dong, Shiping Wang <br />
-    *Neural Networks, Volume 168, Pages 161-170, 2023*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/YuhongChen2320/JFGCN)
+**[Towards Multi-view Consistent Graph Diffusion](https://dl.acm.org/doi/pdf/10.1145/3664647.3681258)**<br />
+   Jielong Lu, **Zhihao Wu**, Zhaoliang Chen, Zhiling Cai, Shiping Wang <br />
+   *ACM International Conference on Multimedia* <br />
+   [\[code\]](https://github.com/long319/ECMGD)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/IMVGCN.jpg' alt="sym" width="100%"></div></div>
+<!-- 9. chen2023agnn -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AGNN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-**[Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning](https://doi.org/10.1109/TMM.2023.3260649)**,<br />
-    Zhihao Wu, Xincan Lin, Zhenghong Lin, **Zhaoliang Chen**, Yang Bai, Shiping Wang <br />
-    *IEEE Transactions on Multimedia, Volume 25, Pages 8593-8606, 2023*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/ZhihaoWu99/IMvGCN)
+**[AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing](AGNN2023.pdf)**<br />
+   Zhaoliang Chen, **Zhihao Wu**, Zhenghong Lin, Shiping Wang, Claudia Plant, Wenzhong Guo <br />
+   *IEEE Transactions on Neural Networks and Learning Systems* <br />
+   [\[code\]](https://github.com/chenzl23/AGNN)
+</div></div>
+
+<!-- 10. chen2023attributed -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUNET</div><img src='images/AMOGCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://arxiv.org/pdf/2304.06336)**<br />
+   Zhaoliang Chen, **Zhihao Wu**, Luying Zhong, Claudia Plant, Shiping Wang, Wenzhong Guo <br />
+   *Neural Networks* <br />
+   [\[code\]](https://github.com/chenzl23/AMOGCN)
+</div></div>
+
+<!-- 11. generative2024Lu -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/GEGCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/abstract/document/10462517/)**<br />
+   Jielong Lu, **Zhihao Wu**, Luying Zhong, Zhaoliang Chen, Hong Zhao, Shiping Wang <br />
+   *IEEE Transactions on Multimedia* <br />
+   [\[code\]](https://github.com/long319/GEGCN)
+</div></div>
+
+<!-- 12. chen2023joint -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUNET</div><img src='images/JFGCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Joint Learning of Feature and Topology for Multi-view Graph Convolutional Network](JFGCN_NN2023.pdf)**<br />
+   Yuhong Chen, **Zhihao Wu**, Zhaoliang Chen, Mianxiong Dong, Shiping Wang <br />
+   *Neural Networks* <br />
+   [\[code\]](https://github.com/YuhongChen2320/JFGCN)
+</div></div>
+
+<!-- 13. zhang2025dmvc -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/DMVC-CE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Mixture of Experts as Representation Learner for Deep Multi-view Clustering](https://proceedings.neurips.cc/paper/2023/hash/3ec6c6fc9065aa57785eb05dffe7c3db-Abstract-Conference.html)**<br />
+   Yunhe Zhang, Jinyu Cai, **Zhihao Wu**, Pengyang Wang, See-Kiong Ng <br />
+   *AAAI Conference on Artificial Intelligence* <br />
+</div></div>
+
+<!-- 14. du2024UMCGL -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/UMCGL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[UMCGL: Universal Multi-view Consensus Graph Learning with Consistency and Diversity](https://ieeexplore.ieee.org/abstract/document/10539072/)**<br />
+   Shide Du, Zhiling Cai, **Zhihao Wu**, Yueyang Pi, Shiping Wang <br />
+   *IEEE Transactions on Image Process* <br />
+</div></div>
+
+<!-- 15. zhong2023lgcn -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/LGCN-SGIB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Learnable Graph Convolutional Network With Semisupervised Graph Information Bottleneck](LGCN_TNNLS2023.pdf)**<br />
+   Luying Zhong, Zhaoliang Chen, **Zhihao Wu**, Shide Du, Zheyi Chen, Shiping Wang <br />
+   *IEEE Transactions on Neural Networks and Learning Systems* <br />
+</div></div>
+
+<!-- 16. zhuang2024enhancing -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/CGNN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Enhancing Multi-view Graph Neural Network with Cross-view Confluent Message Passing](https://dl.acm.org/doi/pdf/10.1145/3664647.3681585)**<br />
+   Shuman Zhuang, Sujia Huang, Wei Huang, Yuhong Chen, **Zhihao Wu**, Ximeng Liu <br />
+   *ACM International Conference on Multimedia* <br />
+</div></div>
+
+<!-- 17. zou2023revisiting -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUNET</div><img src='images/IHGCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Revisiting Multi-view Learning: A Perspective of Implicitly Heterogeneous Graph Convolutional Network](JFGCN_NN2023.pdf)**<br />
+   Ying Zou, Zihan Fang, **Zhihao Wu**, Chenghui Zheng, Shiping Wang <br />
+   *Neural Networks* <br />
+</div></div>
+
+<!-- 18. HuangMKGCN2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='images/MKI-GCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Multi-level Knowledge Integration with Graph Convolutional Network for Cancer Molecular Subtype Classification](https://proceedings.neurips.cc/paper/2023/hash/3ec6c6fc9065aa57785eb05dffe7c3db-Abstract-Conference.html)**<br />
+   Sujia Huang, Shunxin Xiao, Wenzhe Liu, Jielong Lu, **Zhihao Wu**, Jagath Rajapakse <br />
+   *IEEE International Conference on Bioinformatics and Biomedicine* <br />
 </div></div>
 
 
