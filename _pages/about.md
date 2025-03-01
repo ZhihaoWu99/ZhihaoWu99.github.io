@@ -46,6 +46,9 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 - *2017.09 - 2021.06*: &nbsp; B.E., College of Mathematics and Computer Science, Fuzhou University, China
 
 # 📝 Selected Publications 
+<p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:20px;">
+† indicates equal contribution. Full list can be found on [Google Scholar](https://scholar.google.com/citations?user=QDlGhPsAAAAJ)
+</p>
 
 <!-- 1. wu2023gckm -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/GCKM.jpg' alt="sym" width="100%"></div></div>
@@ -78,7 +81,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/GRAND.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement](https://proceedings.neurips.cc/paper/2023/hash/3ec6c6fc9065aa57785eb05dffe7c3db-Abstract-Conference.html)**<br />
-   Shuman Zhuang†, **Zhihao Wu**†, Zhaoliang Chen, Hong-Ning Dai, Ximeng Liu <br />
+   Shuman Zhuang†, **Zhihao Wu†**, Zhaoliang Chen, Hong-Ning Dai, Ximeng Liu <br />
    *AAAI Conference on Artificial Intelligence 2025* <br />
 </div></div>
 
@@ -86,7 +89,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/KerRead.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Kernel Readout for Graph Neural Networks](https://www.ijcai.org/proceedings/2024/0277.pdf)**<br />
-   Jiajun Yu†, **Zhihao Wu**†, Jia Adele Lu, Jicong Fan <br />
+   Jiajun Yu†, **Zhihao Wu†**, Jia Adele Lu, Jicong Fan <br />
    *International Joint Conference on Artificial Intelligence 2024* <br />
    [\[code\]](https://github.com/jiajunCAU/KerRead)
 </div></div>
@@ -96,7 +99,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 <div class='paper-box-text' markdown="1">
 **[Beyond Graph Convolutional Network: An Interpretable Regularizer-Centered Optimization Framework](tsGCN-AAAI2023.pdf)**<br />
    Shiping Wang, **Zhihao Wu**, Yuhong Chen, Yong Chen <br />
-   *AAAI Conference on Artificial Intelligence* <br />
+   *AAAI Conference on Artificial Intelligence 2023* <br />
    [\[code\]](https://github.com/ZhihaoWu99/tsGCN)
 </div></div>
 
@@ -184,23 +187,6 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Enhancing Multi-view Graph Neural Network with Cross-view Confluent Message Passing](https://dl.acm.org/doi/pdf/10.1145/3664647.3681585)**<br />
    Shuman Zhuang, Sujia Huang, Wei Huang, Yuhong Chen, **Zhihao Wu**, Ximeng Liu <br />
    *ACM International Conference on Multimedia 2024* <br />
-</div></div>
-
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUNET</div><img src='images/IHGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**[Revisiting Multi-view Learning: A Perspective of Implicitly Heterogeneous Graph Convolutional Network](JFGCN_NN2023.pdf)**<br />
-   Ying Zou, Zihan Fang, **Zhihao Wu**, Chenghui Zheng, Shiping Wang <br />
-   *Neural Networks* <br />
-</div></div>
--->
-
-<!-- 18. HuangMKGCN2023 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='images/MKI-GCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**[Multi-level Knowledge Integration with Graph Convolutional Network for Cancer Molecular Subtype Classification](https://proceedings.neurips.cc/paper/2023/hash/3ec6c6fc9065aa57785eb05dffe7c3db-Abstract-Conference.html)**<br />
-   Sujia Huang, Shunxin Xiao, Wenzhe Liu, Jielong Lu, **Zhihao Wu**, Jagath Rajapakse <br />
-   *IEEE International Conference on Bioinformatics and Biomedicine 2023* <br />
 </div></div>
 
 
