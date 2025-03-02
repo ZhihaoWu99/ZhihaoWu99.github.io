@@ -56,7 +56,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Graph Convolutional Kernel versus Graph Convolutional Networks](https://proceedings.neurips.cc/paper_files/paper/2023/file/3ec6c6fc9065aa57785eb05dffe7c3db-Paper-Conference.pdf)**<br />
    **Zhihao Wu**, Zhao Zhang, Jicong Fan <br />
    *Advances in Neural Information Processing Systems* <br />
-   [\[BibTex\]](https://dblp.org/rec/conf/nips/WuZF23.html?view=bibtex) &nbsp; | &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/GCKM)
+   [\[BibTex\]](https://dblp.org/rec/conf/nips/WuZF23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/GCKM)
 </div></div>
 
 <!-- 2. Interpretable2023Wu -->
@@ -65,7 +65,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning](IMVGCN-TMM2023.pdf)**<br />
    **Zhihao Wu**, Xincan Lin, Zhenghong Lin, Zhaoliang Chen, Yang Bai, Shiping Wang <br />
    *IEEE Transactions on Multimedia* <br />
-   [\[BibTex\]](https://dblp.org/rec/journals/tmm/WuLLCBW23.html?view=bibtex) &nbsp; | &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/IMvGCN)
+   [\[BibTex\]](https://dblp.org/rec/journals/tmm/WuLLCBW23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/IMvGCN)
 </div></div>
 
 <!-- 3. elastic2024Wu -->
@@ -74,7 +74,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158)**<br />
    **Zhihao Wu**, Zhaoliang Chen, Shide Du, Sujia Huang, Shiping Wang <br />
    *Pattern Recognition* <br />
-   [\[BibTex\]](https://dblp.org/rec/journals/pr/WuCDHW24.html?view=bibtex) &nbsp; | &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/GCNet)
+   [\[BibTex\]](https://dblp.org/rec/journals/pr/WuCDHW24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/GCNet)
 </div></div>
 
 <!-- 4. zhuang2024grand -->
@@ -91,7 +91,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Kernel Readout for Graph Neural Networks](https://www.ijcai.org/proceedings/2024/0277.pdf)**<br />
    Jiajun Yu†, **Zhihao Wu†**, Jia Adele Lu, Jicong Fan <br />
    *International Joint Conference on Artificial Intelligence 2024* <br />
-   [\[BibTex\]](https://dblp.org/rec/conf/ijcai/Yu0CJ024.html?view=bibtex) &nbsp; | &nbsp; [\[Code\]](https://github.com/jiajunCAU/KerRead)
+   [\[BibTex\]](https://dblp.org/rec/conf/ijcai/Yu0CJ024.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/jiajunCAU/KerRead)
 </div></div>
 
 <!-- 6. Wang0CC23 -->
@@ -100,7 +100,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Beyond Graph Convolutional Network: An Interpretable Regularizer-Centered Optimization Framework](tsGCN-AAAI2023.pdf)**<br />
    Shiping Wang, **Zhihao Wu**, Yuhong Chen, Yong Chen <br />
    *AAAI Conference on Artificial Intelligence 2023* <br />
-   [\[BibTex\]](https://dblp.org/rec/conf/aaai/Wang0CC23.html?view=bibtex) &nbsp; | &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/tsGCN)
+   [\[BibTex\]](https://dblp.org/rec/conf/aaai/Wang0CC23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/tsGCN)
 </div></div>
 
 <!-- 7. ChenDLRGAE22 -->
@@ -109,7 +109,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks](DLRGAE_AAAI2023.pdf)**<br />
    Zhaoliang Chen, **Zhihao Wu**, Shiping Wang, Wenzhong Guo <br />
    *AAAI Conference on Artificial Intelligence 2023* <br />
-   [\[BibTex\]](https://dblp.org/rec/conf/aaai/Chen0WG23.html?view=bibtex) &nbsp; | &nbsp; [\[Code\]](https://github.com/chenzl23/DLRGAE)
+   [\[BibTex\]](https://dblp.org/rec/conf/aaai/Chen0WG23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/chenzl23/DLRGAE)
 </div></div>
 
 <!-- 8. lu2024towards -->
@@ -118,7 +118,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Towards Multi-view Consistent Graph Diffusion](https://dl.acm.org/doi/pdf/10.1145/3664647.3681258)**<br />
    Jielong Lu, **Zhihao Wu**, Zhaoliang Chen, Zhiling Cai, Shiping Wang <br />
    *ACM International Conference on Multimedia 2024* <br />
-   [\[BibTex\]](https://dblp.org/rec/conf/mm/Lu0CCW24.html?view=bibtex) &nbsp; | &nbsp; [\[Code\]](https://github.com/long319/ECMGD)
+   [\[BibTex\]](https://dblp.org/rec/conf/mm/Lu0CCW24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/long319/ECMGD)
 </div></div>
 
 <!-- 9. chen2023agnn -->
@@ -127,7 +127,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing](AGNN2023.pdf)**<br />
    Zhaoliang Chen, **Zhihao Wu**, Zhenghong Lin, Shiping Wang, Claudia Plant, Wenzhong Guo <br />
    *IEEE Transactions on Neural Networks and Learning Systems* <br />
-   [\[BibTex\]](https://dblp.org/rec/journals/tnn/ChenWLWPG24.html?view=bibtex) &nbsp; | &nbsp; [\[Code\]](https://github.com/chenzl23/AGNN)
+   [\[BibTex\]](https://dblp.org/rec/journals/tnn/ChenWLWPG24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/chenzl23/AGNN)
 </div></div>
 
 <!-- 10. chen2023attributed -->
@@ -136,7 +136,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://arxiv.org/pdf/2304.06336)**<br />
    Zhaoliang Chen, **Zhihao Wu**, Luying Zhong, Claudia Plant, Shiping Wang, Wenzhong Guo <br />
    *Neural Networks* <br />
-   [\[BibTex\]]() &nbsp; | &nbsp; [\[Code\]](https://github.com/chenzl23/AMOGCN)
+   [\[BibTex\]]() &nbsp; [\[Code\]](https://github.com/chenzl23/AMOGCN)
 </div></div>
 
 <!-- 11. generative2024Lu -->
@@ -145,7 +145,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/abstract/document/10462517/)**<br />
    Jielong Lu, **Zhihao Wu**, Luying Zhong, Zhaoliang Chen, Hong Zhao, Shiping Wang <br />
    *IEEE Transactions on Multimedia* <br />
-   [\[BibTex\]](https://dblp.org/rec/journals/tmm/LuWZCZW24.html?view=bibtex) &nbsp; | &nbsp; [\[Code\]](https://github.com/long319/GEGCN)
+   [\[BibTex\]](https://dblp.org/rec/journals/tmm/LuWZCZW24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/long319/GEGCN)
 </div></div>
 
 <!-- 12. chen2023joint -->
@@ -154,7 +154,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Joint Learning of Feature and Topology for Multi-view Graph Convolutional Network](JFGCN_NN2023.pdf)**<br />
    Yuhong Chen, **Zhihao Wu**, Zhaoliang Chen, Mianxiong Dong, Shiping Wang <br />
    *Neural Networks* <br />
-   [\[BibTex\]](https://dblp.org/rec/journals/nn/ChenWCDW23.html?view=bibtex) &nbsp; | &nbsp; [\[Code\]](https://github.com/YuhongChen2320/JFGCN)
+   [\[BibTex\]](https://dblp.org/rec/journals/nn/ChenWCDW23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/YuhongChen2320/JFGCN)
 </div></div>
 
 <!-- 13. zhang2025dmvc -->
@@ -188,7 +188,7 @@ Prior to this, I completed my B.E. in Computer Science at the College of Mathema
 **[Enhancing Multi-view Graph Neural Network with Cross-view Confluent Message Passing](https://dl.acm.org/doi/pdf/10.1145/3664647.3681585)**<br />
    Shuman Zhuang, Sujia Huang, Wei Huang, Yuhong Chen, **Zhihao Wu**, Ximeng Liu <br />
    *ACM International Conference on Multimedia 2024* <br />
-   [\[BibTex\]]([https://dblp.org/rec/journals/nn/ChenWCDW23.html?view=bibtex](https://dblp.org/rec/conf/mm/ZhuangH0C0L24.html?view=bibtex)) &nbsp; | &nbsp; [\[Code\]](https://github.com/shumanzhuang/CGNN)
+   [\[BibTex\]]([https://dblp.org/rec/journals/nn/ChenWCDW23.html?view=bibtex](https://dblp.org/rec/conf/mm/ZhuangH0C0L24.html?view=bibtex)) &nbsp; [\[Code\]](https://github.com/shumanzhuang/CGNN)
 </div></div>
 
 
