@@ -39,7 +39,7 @@ I am currently a research assistant with the College of Computer Science and Tec
 - *2023.01*: &nbsp; One paper has been accepted by *IEEE TMM*, many thanks to all my collaborators!✨✨
 
 # 📖 Experience
-- *2024.06 - Present*: &nbsp; Research Assistant, College of Computer Science and Technology, Zhejiang University, China.
+- *2024.11 - Present*: &nbsp; Research Assistant, College of Computer Science and Technology, Zhejiang University, China.
 - *2021.09 - 2024.06*: &nbsp; M.E. in Artificial Intelligence, College of Computer and Data Science, Fuzhou University, China.
 - *2023.02 - 2023.09*: &nbsp; Visiting Student, School of Data Science, The Chinese University of Hong Kong, Shenzhen, China.
 - *2017.09 - 2021.06*: &nbsp; B.E. in Computer Science, College of Mathematics and Computer Science, Fuzhou University, China
