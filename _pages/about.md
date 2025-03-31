@@ -200,6 +200,7 @@ I am currently a research assistant with the College of Computer Science and Tec
   - IEEE Transactions on Network Science and Engineering
   - IEEE Signal Processing Letters
   - ACM Transactions on Knowledge Discovery from Data
+  - Machine Learning
   - Pattern Recognition
   - Neural Networks
   - Knowledge-Based Systems
