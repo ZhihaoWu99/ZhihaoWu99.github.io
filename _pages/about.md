@@ -93,22 +93,22 @@ I am currently a research assistant with the College of Computer Science and Tec
    [\[BibTex\]](https://dblp.org/rec/conf/ijcai/Yu0CJ024.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/jiajunCAU/KerRead)
 </div></div>
 
-<!-- 6. Wang0CC23 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/tsGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**[Beyond Graph Convolutional Network: An Interpretable Regularizer-Centered Optimization Framework](tsGCN-AAAI2023.pdf)**<br />
-   Shiping Wang, **Zhihao Wu**, Yuhong Chen, Yong Chen <br />
-   *AAAI Conference on Artificial Intelligence 2023* <br />
-   [\[BibTex\]](https://dblp.org/rec/conf/aaai/Wang0CC23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/tsGCN)
-</div></div>
-
-<!-- 7. ChenDLRGAE22 -->
+<!-- 6. ChenDLRGAE22 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DLRGAE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks](DLRGAE_AAAI2023.pdf)**<br />
    Zhaoliang Chen, **Zhihao Wu**, Shiping Wang, Wenzhong Guo <br />
    *AAAI Conference on Artificial Intelligence 2023* <br />
    [\[BibTex\]](https://dblp.org/rec/conf/aaai/Chen0WG23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/chenzl23/DLRGAE)
+</div></div>
+
+<!-- 7. Wang0CC23 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/tsGCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Beyond Graph Convolutional Network: An Interpretable Regularizer-Centered Optimization Framework](tsGCN-AAAI2023.pdf)**<br />
+   Shiping Wang, **Zhihao Wu**, Yuhong Chen, Yong Chen <br />
+   *AAAI Conference on Artificial Intelligence 2023* <br />
+   [\[BibTex\]](https://dblp.org/rec/conf/aaai/Wang0CC23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/tsGCN)
 </div></div>
 
 <!-- 8. lu2024towards -->
@@ -129,32 +129,32 @@ I am currently a research assistant with the College of Computer Science and Tec
    [\[BibTex\]](https://dblp.org/rec/journals/tnn/ChenWLWPG24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/chenzl23/AGNN)
 </div></div>
 
-<!-- 10. chen2023attributed -->
+<!-- 10. chen2023attributed
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUNET</div><img src='images/AMOGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://arxiv.org/pdf/2304.06336)**<br />
    Zhaoliang Chen, **Zhihao Wu**, Luying Zhong, Claudia Plant, Shiping Wang, Wenzhong Guo <br />
    *Neural Networks* <br />
    [\[BibTex\]]() &nbsp; [\[Code\]](https://github.com/chenzl23/AMOGCN)
-</div></div>
+</div></div> -->
 
-<!-- 11. generative2024Lu -->
+<!-- 11. generative2024Lu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/GEGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/abstract/document/10462517/)**<br />
    Jielong Lu, **Zhihao Wu**, Luying Zhong, Zhaoliang Chen, Hong Zhao, Shiping Wang <br />
    *IEEE Transactions on Multimedia* <br />
    [\[BibTex\]](https://dblp.org/rec/journals/tmm/LuWZCZW24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/long319/GEGCN)
-</div></div>
+</div></div> -->
 
-<!-- 12. chen2023joint -->
+<!-- 12. chen2023joint
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUNET</div><img src='images/JFGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Joint Learning of Feature and Topology for Multi-view Graph Convolutional Network](JFGCN_NN2023.pdf)**<br />
    Yuhong Chen, **Zhihao Wu**, Zhaoliang Chen, Mianxiong Dong, Shiping Wang <br />
    *Neural Networks* <br />
    [\[BibTex\]](https://dblp.org/rec/journals/nn/ChenWCDW23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/YuhongChen2320/JFGCN)
-</div></div>
+</div></div> -->
 
 <!-- 13. zhang2025dmvc -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/DMVC-CE.jpg' alt="sym" width="100%"></div></div>
