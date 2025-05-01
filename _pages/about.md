@@ -30,6 +30,10 @@ I am currently a research assistant with the College of Computer Science and Tec
 - *2024.06*:  One paper has been accepted by *IEEE TSIPN*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!✨✨
 - *2024.04*:  One paper has been accepted by *IJCAI'24*, many thanks to my coauthors [Jiajun Yu](https://scholar.google.jp/citations?user=tCtMGUAAAAAJ), [Jinyu Cai](https://jinyucai95.github.io/), and [Jicong Fan](https://jicongfan.github.io/)!✨✨
 - *2024.03*:  One paper has been accepted by *Neural Networks*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!✨✨
+
+<details markdown="1">
+<summary>More</summary>
+
 - *2024.02*:  One paper has been accepted by *IEEE TMM*, congrats to [Jielong Lu](https://scholar.google.com/citations?user=kvhyb9UAAAAJ&hl=en) and other collaborators!✨✨  
 - *2024.02*:  One paper has been accepted by *Pattern Recognition*, many thanks to all my collaborators!✨✨  
 - *2023.10*:  One paper has been accepted by *IEEE BIBM'23*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!✨✨  
@@ -38,6 +42,8 @@ I am currently a research assistant with the College of Computer Science and Tec
 - *2023.09*:  One paper has been accepted by *Neural Networks*, congrats to Yuhong Chen and other collaborators!✨✨  
 - *2023.04*:  One paper has been accepted by *IEEE TNNLS*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!✨✨  
 - *2023.01*:  One paper has been accepted by *IEEE TMM*, many thanks to all my collaborators!✨✨  
+
+</details>
 
 # 📖 Experience
 - *2024.11 - Present*: &nbsp; Research Assistant, College of Computer Science and Technology, Zhejiang University, China.
