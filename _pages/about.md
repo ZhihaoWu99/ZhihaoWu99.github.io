@@ -21,6 +21,7 @@ I am currently a research assistant with the College of Computer Science and Tec
 
 # 📰 News
 - *2025.04*:  One paper has been accepted by *IJCAI'25*, many thanks to all my collaborators!✨✨
+- *2025.04*:  I will be pursuing my PhD in Computer Science at Zhejiang University beginning Fall 2025!✨✨
 - *2024.12*:  Two papers have been accepted by *AAAI'25*, congrats to [Yunhe Zhang](https://scholar.google.com/citations?user=xODtRUwAAAAJ), Shuman Zhuang and other collaborators!✨✨
 - *2024.11*:  One paper has been accepted by *Neural Networks*, congrats to [Yuhong Chen](https://scholar.google.com/citations?user=l0LYH7kAAAAJ) and other collaborators!✨✨
 - *2024.09*:  One paper has been accepted by *IEEE TNSE*, congrats to Jie Lian and other collaborators!✨✨
