@@ -20,24 +20,30 @@ redirect_from:
 I am currently a research assistant with the College of Computer Science and Technology, Zhejiang University. I received a master's degree from the College of Computer and Data Science, Fuzhou University, under the guidance of [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm) and my mentor [Dr. Zhaoliang Chen](https://chenzl23.github.io/). During my master's studies, I had the privilege to collaborate closely with [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/) from the Department of Computer Science, Hong Kong Baptist University. Meanwhile, I was also a visiting student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen, fortunately to be advised by [Prof. Jicong Fan](https://jicongfan.github.io/). Prior to this, I completed my B.E. in Computer Science at the College of Mathematics and Computer Science, Fuzhou University, in 2021. My research interests lie in graph-based machine learning and graph neural networks. I have published over 20 papers in prestigious conferences and journals, including NeurIPS, AAAI, IJCAI, ACM MM, IEEE Transactions on Image Processing (IEEE TIP), IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), IEEE Transactions on Multimedia (IEEE TMM), Pattern Recognition, and Neural Networks, etc. <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhihaowu99%2Fzhihaowu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📰 News
-- *2025.04*: &nbsp; One paper has been accepted by *IJCAI'25*, many thanks to all my collaborators!✨✨
-- *2024.12*: &nbsp; Two papers have been accepted by *AAAI'25*, congrats to [Yunhe Zhang](https://scholar.google.com/citations?user=xODtRUwAAAAJ), Shuman Zhuang and other collaborators!✨✨
-- *2024.11*: &nbsp; One paper has been accepted by *Neural Networks*, congrats to [Yuhong Chen](https://scholar.google.com/citations?user=l0LYH7kAAAAJ) and other collaborators!✨✨
-- *2024.09*: &nbsp; One paper has been accepted by *IEEE TNSE*, congrats to Jie Lian and other collaborators!✨✨
-- *2024.07*: &nbsp; One paper has been accepted by *Neural Networks*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!✨✨
-- *2024.07*: &nbsp; Two paper have been accepted by *ACM MM'24*, congrats to [Jielong Lu](https://scholar.google.com/citations?user=kvhyb9UAAAAJ&hl=en), Shuman Zhuang and other collaborators!✨✨
-- *2024.06*: &nbsp; I have graduated from Fuzhou University, honored with the Outstanding Graduate Award！✨✨
-- *2024.06*: &nbsp; One paper has been accepted by *IEEE TSIPN*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!✨✨
-- *2024.04*: &nbsp; One paper has been accepted by *IJCAI'24*, many thanks to my coauthors [Jiajun Yu](https://scholar.google.jp/citations?user=tCtMGUAAAAAJ), [Jinyu Cai](https://jinyucai95.github.io/), and [Jicong Fan](https://jicongfan.github.io/)!✨✨
-- *2024.03*: &nbsp; One paper has been accepted by *Neural Networks*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!✨✨
-- *2024.02*: &nbsp; One paper has been accepted by *IEEE TMM*, congrats to [Jielong Lu](https://scholar.google.com/citations?user=kvhyb9UAAAAJ&hl=en) and other collaborators!✨✨
-- *2024.02*: &nbsp; One paper has been accepted by *Pattern Recognition*, many thanks to all my collaborators!✨✨
-- *2023.10*: &nbsp; One paper has been accepted by *IEEE BIBM'23*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!✨✨
-- *2023.09*: &nbsp; One paper has been accepted by *IEEE TNNLS*, congrats to Luying Zhong and other collaborators!✨✨
-- *2023.09*: &nbsp; One paper has been accepted by *NeurIPS'23*, many thanks to my advisor [Prof. Jicong Fan](https://jicongfan.github.io/)!✨✨
-- *2023.09*: &nbsp; One paper has been accepted by *Neural Networks*, congrats to Yuhong Chen and other collaborators!✨✨
-- *2023.04*: &nbsp; One paper has been accepted by *IEEE TNNLS*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!✨✨
-- *2023.01*: &nbsp; One paper has been accepted by *IEEE TMM*, many thanks to all my collaborators!✨✨
+- *2025.04*:  One paper has been accepted by *IJCAI'25*, many thanks to all my collaborators!✨✨
+- *2024.12*:  Two papers have been accepted by *AAAI'25*, congrats to [Yunhe Zhang](https://scholar.google.com/citations?user=xODtRUwAAAAJ), Shuman Zhuang and other collaborators!✨✨
+- *2024.11*:  One paper has been accepted by *Neural Networks*, congrats to [Yuhong Chen](https://scholar.google.com/citations?user=l0LYH7kAAAAJ) and other collaborators!✨✨
+- *2024.09*:  One paper has been accepted by *IEEE TNSE*, congrats to Jie Lian and other collaborators!✨✨
+- *2024.07*:  One paper has been accepted by *Neural Networks*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!✨✨
+- *2024.07*:  Two paper have been accepted by *ACM MM'24*, congrats to [Jielong Lu](https://scholar.google.com/citations?user=kvhyb9UAAAAJ&hl=en), Shuman Zhuang and other collaborators!✨✨
+- *2024.06*:  I have graduated from Fuzhou University, honored with the Outstanding Graduate Award！✨✨
+- *2024.06*:  One paper has been accepted by *IEEE TSIPN*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!✨✨
+- *2024.04*:  One paper has been accepted by *IJCAI'24*, many thanks to my coauthors [Jiajun Yu](https://scholar.google.jp/citations?user=tCtMGUAAAAAJ), [Jinyu Cai](https://jinyucai95.github.io/), and [Jicong Fan](https://jicongfan.github.io/)!✨✨
+- *2024.03*:  One paper has been accepted by *Neural Networks*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!✨✨
+
+<details>
+<summary>more</summary>
+
+- *2024.02*:  One paper has been accepted by *IEEE TMM*, congrats to [Jielong Lu](https://scholar.google.com/citations?user=kvhyb9UAAAAJ&hl=en) and other collaborators!✨✨  
+- *2024.02*:  One paper has been accepted by *Pattern Recognition*, many thanks to all my collaborators!✨✨  
+- *2023.10*:  One paper has been accepted by *IEEE BIBM'23*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!✨✨  
+- *2023.09*:  One paper has been accepted by *IEEE TNNLS*, congrats to Luying Zhong and other collaborators!✨✨  
+- *2023.09*:  One paper has been accepted by *NeurIPS'23*, many thanks to my advisor [Prof. Jicong Fan](https://jicongfan.github.io/)!✨✨  
+- *2023.09*:  One paper has been accepted by *Neural Networks*, congrats to Yuhong Chen and other collaborators!✨✨  
+- *2023.04*:  One paper has been accepted by *IEEE TNNLS*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!✨✨  
+- *2023.01*:  One paper has been accepted by *IEEE TMM*, many thanks to all my collaborators!✨✨  
+
+</details>
 
 # 📖 Experience
 - *2024.11 - Present*: &nbsp; Research Assistant, College of Computer Science and Technology, Zhejiang University, China.
