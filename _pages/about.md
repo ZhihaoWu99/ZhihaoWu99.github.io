@@ -57,7 +57,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 † indicates equal contribution; \* indicates corresponding author. Full list can be found on <a href="https://scholar.google.com/citations?user=QDlGhPsAAAAJ" target="_blank">Google Scholar</a>.
 </p>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/GCKM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/MMoG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Divide and Conquer: Coordinating Multiplex Mixture of Graph Learners to Handle Multi-Omics Analysis]()**<br />
    **Zhihao Wu**, Jielong Lu, Jiajun Yu, Sheng Zhou, Yueyang Pi, Haishuai Wang <br />
@@ -92,6 +92,14 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
    [\[BibTex\]](https://dblp.org/rec/journals/pr/WuCDHW24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/GCNet)
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/ACGL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[A Centrality-based Graph Learning Framework]()**<br />
+   Jiajun Yu, **Zhihao Wu^†**, Jielong Lu, Tianyue Wang, Haishuai Wang <br />
+   *International Joint Conference on Artificial Intelligence 2025* <br />
+   [\[BibTex\]]()
+</div></div>
+
 <!-- 4. zhuang2024grand -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/GRAND.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,17 +112,9 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/KerRead.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Kernel Readout for Graph Neural Networks](https://www.ijcai.org/proceedings/2024/0277.pdf)**<br />
-   Jiajun Yu, **Zhihao Wu†**, Jia Adele Lu, Jicong Fan <br />
+   Jiajun Yu, **Zhihao Wu^†**, Jia Adele Lu, Jicong Fan <br />
    *International Joint Conference on Artificial Intelligence 2024* <br />
    [\[BibTex\]](https://dblp.org/rec/conf/ijcai/Yu0CJ024.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/jiajunCAU/KerRead)
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/GCKM.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**[A Centrality-based Graph Learning Framework]()**<br />
-   Jiajun Yu, **Zhihao Wu†**, Jielong Lu, Tianyue Wang, Haishuai Wang <br />
-   *International Joint Conference on Artificial Intelligence 2025* <br />
-   [\[BibTex\]]()
 </div></div>
 
 <!-- 6. ChenDLRGAE22 -->
