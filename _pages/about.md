@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research assistant with the College of Computer Science and Technology, Zhejiang University. I received a master's degree from the College of Computer and Data Science, Fuzhou University, under the guidance of [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm) and my mentor [Dr. Zhaoliang Chen](https://chenzl23.github.io/). During my master's studies, I had the privilege to collaborate closely with [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/) from the Department of Computer Science, Hong Kong Baptist University. Meanwhile, I was also a visiting student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen, fortunately to be advised by [Prof. Jicong Fan](https://jicongfan.github.io/). Prior to this, I completed my B.E. in Computer Science at the College of Mathematics and Computer Science, Fuzhou University, in 2021. My research interests lie in graph-based machine learning and graph neural networks. I have published over 20 papers in prestigious conferences and journals, including NeurIPS, AAAI, IJCAI, ACM MM, IEEE Transactions on Image Processing (IEEE TIP), IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), IEEE Transactions on Multimedia (IEEE TMM), Pattern Recognition, and Neural Networks, etc. <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhihaowu99%2Fzhihaowu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am an incoming PhD student with the College of Computer Science, Zhejiang University. I received a master's degree from the College of Computer and Data Science, Fuzhou University, under the guidance of [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm) and [Dr. Zhaoliang Chen](https://chenzl23.github.io/). During my master's studies, I had the privilege to collaborate closely with [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/) from the Department of Computer Science, Hong Kong Baptist University. I was also a visiting student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen, fortunately to be advised by [Prof. Jicong Fan](https://jicongfan.github.io/). Prior to this, I completed my B.E. in Computer Science at the College of Mathematics and Computer Science, Fuzhou University, in 2021. My research interests lie in graph-based machine learning and graph neural networks. I have published over 20 papers in prestigious conferences and journals, including NeurIPS, AAAI, IJCAI, ACM MM, IEEE Transactions on Image Processing (IEEE TIP), IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), IEEE Transactions on Multimedia (IEEE TMM), Pattern Recognition, and Neural Networks, etc. <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhihaowu99%2Fzhihaowu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📰 News
-- *2025.04*:  One paper has been accepted by *IJCAI'25*, many thanks to all my collaborators!✨✨
-- *2025.04*:  I will be pursuing my PhD in Computer Science at Zhejiang University beginning Fall 2025!✨✨
+- *2025.04*:  Two paper have been accepted by *IJCAI'25*, many thanks to all my collaborators!✨✨
+- *2025.04*:  I will be pursuing my PhD in Computer Science at Zhejiang University, beginning Fall 2025!✨✨
 - *2024.12*:  Two papers have been accepted by *AAAI'25*, congrats to [Yunhe Zhang](https://scholar.google.com/citations?user=xODtRUwAAAAJ), Shuman Zhuang and other collaborators!✨✨
 - *2024.11*:  One paper has been accepted by *Neural Networks*, congrats to [Yuhong Chen](https://scholar.google.com/citations?user=l0LYH7kAAAAJ) and other collaborators!✨✨
 - *2024.09*:  One paper has been accepted by *IEEE TNSE*, congrats to Jie Lian and other collaborators!✨✨
@@ -54,8 +54,16 @@ I am currently a research assistant with the College of Computer Science and Tec
 
 # 📝 Selected Publications 
 <p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:5px;">
-† indicates equal contribution. Full list can be found on <a href="https://scholar.google.com/citations?user=QDlGhPsAAAAJ" target="_blank">Google Scholar</a>.
+† indicates equal contribution; \* indicates corresponding author. Full list can be found on <a href="https://scholar.google.com/citations?user=QDlGhPsAAAAJ" target="_blank">Google Scholar</a>.
 </p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/GCKM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Divide and Conquer: Coordinating Multiplex Mixture of Graph Learners to Handle Multi-Omics Analysis]()**<br />
+   **Zhihao Wu**, Jielong Lu, Jiajun Yu, Sheng Zhou, Yueyang Pi, Haishuai Wang <br />
+   *International Joint Conference on Artificial Intelligence 2025* <br />
+   [\[BibTex\]]()
+</div></div>
 
 <!-- 1. wu2023gckm -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/GCKM.jpg' alt="sym" width="100%"></div></div>
@@ -88,7 +96,7 @@ I am currently a research assistant with the College of Computer Science and Tec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/GRAND.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement](https://proceedings.neurips.cc/paper/2023/hash/3ec6c6fc9065aa57785eb05dffe7c3db-Abstract-Conference.html)**<br />
-   Shuman Zhuang†, **Zhihao Wu†**, Zhaoliang Chen, Hong-Ning Dai, Ximeng Liu <br />
+   Shuman Zhuang, **Zhihao Wu\***, Zhaoliang Chen, Hong-Ning Dai, Ximeng Liu <br />
    *AAAI Conference on Artificial Intelligence 2025* <br />
 </div></div>
 
@@ -96,9 +104,17 @@ I am currently a research assistant with the College of Computer Science and Tec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/KerRead.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Kernel Readout for Graph Neural Networks](https://www.ijcai.org/proceedings/2024/0277.pdf)**<br />
-   Jiajun Yu†, **Zhihao Wu†**, Jia Adele Lu, Jicong Fan <br />
+   Jiajun Yu, **Zhihao Wu†**, Jia Adele Lu, Jicong Fan <br />
    *International Joint Conference on Artificial Intelligence 2024* <br />
    [\[BibTex\]](https://dblp.org/rec/conf/ijcai/Yu0CJ024.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/jiajunCAU/KerRead)
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/GCKM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[A Centrality-based Graph Learning Framework]()**<br />
+   Jiajun Yu, **Zhihao Wu†**, Jielong Lu, Tianyue Wang, Haishuai Wang <br />
+   *International Joint Conference on Artificial Intelligence 2025* <br />
+   [\[BibTex\]]()
 </div></div>
 
 <!-- 6. ChenDLRGAE22 -->
