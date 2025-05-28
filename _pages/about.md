@@ -65,33 +65,6 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
    [\[BibTex\]]()
 </div></div>
 
-<!-- 1. wu2023gckm -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/GCKM.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**[Graph Convolutional Kernel versus Graph Convolutional Networks](https://proceedings.neurips.cc/paper_files/paper/2023/file/3ec6c6fc9065aa57785eb05dffe7c3db-Paper-Conference.pdf)**<br />
-   **Zhihao Wu**, Zhao Zhang, Jicong Fan <br />
-   *Advances in Neural Information Processing Systems* <br />
-   [\[BibTex\]](https://dblp.org/rec/conf/nips/WuZF23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/GCKM)
-</div></div>
-
-<!-- 2. Interpretable2023Wu -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/IMvGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**[Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning](IMVGCN-TMM2023.pdf)**<br />
-   **Zhihao Wu**, Xincan Lin, Zhenghong Lin, Zhaoliang Chen, Yang Bai, Shiping Wang <br />
-   *IEEE Transactions on Multimedia* <br />
-   [\[BibTex\]](https://dblp.org/rec/journals/tmm/WuLLCBW23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/IMvGCN)
-</div></div>
-
-<!-- 3. elastic2024Wu -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/GCNet.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**[Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158)**<br />
-   **Zhihao Wu**, Zhaoliang Chen, Shide Du, Sujia Huang, Shiping Wang <br />
-   *Pattern Recognition* <br />
-   [\[BibTex\]](https://dblp.org/rec/journals/pr/WuCDHW24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/GCNet)
-</div></div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/ACGL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[A Centrality-based Graph Learning Framework]()**<br />
@@ -115,6 +88,33 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
    Jiajun Yu, **Zhihao Wu<sup>†</sup>**, Jia Adele Lu, Jicong Fan <br />
    *International Joint Conference on Artificial Intelligence 2024* <br />
    [\[BibTex\]](https://dblp.org/rec/conf/ijcai/Yu0CJ024.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/jiajunCAU/KerRead)
+</div></div>
+
+<!-- 3. elastic2024Wu -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/GCNet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158)**<br />
+   **Zhihao Wu**, Zhaoliang Chen, Shide Du, Sujia Huang, Shiping Wang <br />
+   *Pattern Recognition* <br />
+   [\[BibTex\]](https://dblp.org/rec/journals/pr/WuCDHW24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/GCNet)
+</div></div>
+
+<!-- 1. wu2023gckm -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/GCKM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Graph Convolutional Kernel versus Graph Convolutional Networks](https://proceedings.neurips.cc/paper_files/paper/2023/file/3ec6c6fc9065aa57785eb05dffe7c3db-Paper-Conference.pdf)**<br />
+   **Zhihao Wu**, Zhao Zhang, Jicong Fan <br />
+   *Advances in Neural Information Processing Systems* <br />
+   [\[BibTex\]](https://dblp.org/rec/conf/nips/WuZF23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/GCKM)
+</div></div>
+
+<!-- 2. Interpretable2023Wu -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/IMvGCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning](IMVGCN-TMM2023.pdf)**<br />
+   **Zhihao Wu**, Xincan Lin, Zhenghong Lin, Zhaoliang Chen, Yang Bai, Shiping Wang <br />
+   *IEEE Transactions on Multimedia* <br />
+   [\[BibTex\]](https://dblp.org/rec/journals/tmm/WuLLCBW23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/IMvGCN)
 </div></div>
 
 <!-- 6. ChenDLRGAE22 -->
