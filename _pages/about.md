@@ -54,7 +54,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 
 # 📝 Selected Publications 
 <p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:5px;">
-<sup>†</sup> indicates equal contribution; * indicates corresponding author. Full list can be found on <a href="https://scholar.google.com/citations?user=QDlGhPsAAAAJ" target="_blank">Google Scholar</a>.
+<sup>†</sup> indicates co-first author; * indicates corresponding author. Full list can be found on <a href="https://scholar.google.com/citations?user=QDlGhPsAAAAJ" target="_blank">Google Scholar</a>.
 </p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/MMoG.jpg' alt="sym" width="100%"></div></div>
