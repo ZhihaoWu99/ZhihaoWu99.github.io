@@ -77,9 +77,10 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <!-- 4. zhuang2024grand -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/GRAND.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**[Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement](https://proceedings.neurips.cc/paper/2023/hash/3ec6c6fc9065aa57785eb05dffe7c3db-Abstract-Conference.html)**<br />
+**[Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement](https://ojs.aaai.org/index.php/AAAI/article/view/33471)**<br />
    Shuman Zhuang, **Zhihao Wu\***, Zhaoliang Chen, Hong-Ning Dai, Ximeng Liu <br />
    *AAAI Conference on Artificial Intelligence 2025* <br />
+  [\[BibTex\]](https://dblp.org/rec/conf/aaai/Zhuang0CDL25.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/shumanzhuang/GRANCE)
 </div></div>
 
 <!-- 5. yu2023kerread -->
@@ -193,7 +194,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <!-- 13. zhang2025dmvc -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/DMVC-CE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**[Mixture of Experts as Representation Learner for Deep Multi-view Clustering](https://proceedings.neurips.cc/paper/2023/hash/3ec6c6fc9065aa57785eb05dffe7c3db-Abstract-Conference.html)**<br />
+**[Mixture of Experts as Representation Learner for Deep Multi-view Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/34430)**<br />
    Yunhe Zhang, Jinyu Cai, **Zhihao Wu**, Pengyang Wang, See-Kiong Ng <br />
    *AAAI Conference on Artificial Intelligence 2025* <br />
 </div></div>
