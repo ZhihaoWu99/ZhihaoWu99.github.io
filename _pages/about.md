@@ -1,4 +1,4 @@
----
+![MSHTrans](https://github.com/user-attachments/assets/89d136c3-4c89-4ea7-b978-d7af34229151)![image](https://github.com/user-attachments/assets/e913d919-5a64-44eb-8699-8f1768f4de9d)---
 permalink: /
 title: ""
 excerpt: ""
@@ -20,8 +20,9 @@ redirect_from:
 I am an incoming PhD student with the College of Computer Science, Zhejiang University. I received a master's degree from the College of Computer and Data Science, Fuzhou University, under the guidance of [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm) and [Dr. Zhaoliang Chen](https://chenzl23.github.io/). During my master's studies, I had the privilege to collaborate closely with [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/) from the Department of Computer Science, Hong Kong Baptist University. I was also a visiting student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen, fortunately to be advised by [Prof. Jicong Fan](https://jicongfan.github.io/). Prior to this, I completed my B.E. in Computer Science at the College of Mathematics and Computer Science, Fuzhou University, in 2021. My research interests lie in graph-based machine learning and graph neural networks. I have published over 20 papers in prestigious conferences and journals, including NeurIPS, AAAI, IJCAI, ACM MM, IEEE Transactions on Image Processing (IEEE TIP), IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), IEEE Transactions on Multimedia (IEEE TMM), Pattern Recognition, and Neural Networks, etc. <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhihaowu99%2Fzhihaowu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📰 News
+- *2025.05*:  One paper have been accepted by *KDD'25*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!✨✨
+- *2025.05*:  I will be pursuing my PhD in Computer Science at Zhejiang University, beginning Fall 2025!✨✨
 - *2025.04*:  Two paper have been accepted by *IJCAI'25*, many thanks to all my collaborators!✨✨
-- *2025.04*:  I will be pursuing my PhD in Computer Science at Zhejiang University, beginning Fall 2025!✨✨
 - *2024.12*:  Two papers have been accepted by *AAAI'25*, congrats to [Yunhe Zhang](https://scholar.google.com/citations?user=xODtRUwAAAAJ), Shuman Zhuang and other collaborators!✨✨
 - *2024.11*:  One paper has been accepted by *Neural Networks*, congrats to [Yuhong Chen](https://scholar.google.com/citations?user=l0LYH7kAAAAJ) and other collaborators!✨✨
 - *2024.09*:  One paper has been accepted by *IEEE TNSE*, congrats to Jie Lian and other collaborators!✨✨
@@ -30,11 +31,11 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 - *2024.06*:  I have graduated from Fuzhou University, honored with the Outstanding Graduate Award！✨✨
 - *2024.06*:  One paper has been accepted by *IEEE TSIPN*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!✨✨
 - *2024.04*:  One paper has been accepted by *IJCAI'24*, many thanks to my coauthors [Jiajun Yu](https://scholar.google.jp/citations?user=tCtMGUAAAAAJ), [Jinyu Cai](https://jinyucai95.github.io/), and [Jicong Fan](https://jicongfan.github.io/)!✨✨
-- *2024.03*:  One paper has been accepted by *Neural Networks*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!✨✨
 
 <details markdown="1">
 <summary>More</summary>
-
+  
+- *2024.03*:  One paper has been accepted by *Neural Networks*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!✨✨
 - *2024.02*:  One paper has been accepted by *IEEE TMM*, congrats to [Jielong Lu](https://scholar.google.com/citations?user=kvhyb9UAAAAJ&hl=en) and other collaborators!✨✨  
 - *2024.02*:  One paper has been accepted by *Pattern Recognition*, many thanks to all my collaborators!✨✨  
 - *2023.10*:  One paper has been accepted by *IEEE BIBM'23*, congrats to [Sujia Huang](https://huangsuj.github.io/) and other collaborators!✨✨  
@@ -54,7 +55,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 
 # 📝 Selected Publications 
 <p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:5px;">
-<sup>†</sup> indicates co-first author; * indicates corresponding author. Full list can be found on <a href="https://scholar.google.com/citations?user=QDlGhPsAAAAJ" target="_blank">Google Scholar</a>.
+<sup>†</sup> indicates co-first author; * indicates corresponding author. <a href="https://scholar.google.com/citations?user=QDlGhPsAAAAJ" target="_blank">Full List</a>
 </p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/MMoG.jpg' alt="sym" width="100%"></div></div>
@@ -95,7 +96,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <div class='paper-box-text' markdown="1">
 **[Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158)**<br />
    **Zhihao Wu**, Zhaoliang Chen, Shide Du, Sujia Huang, Shiping Wang <br />
-   *Pattern Recognition* <br />
+   *Pattern Recognition, 2024* <br />
    [\[BibTex\]](https://dblp.org/rec/journals/pr/WuCDHW24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/GCNet)
 </div></div>
 
@@ -104,7 +105,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <div class='paper-box-text' markdown="1">
 **[Graph Convolutional Kernel versus Graph Convolutional Networks](https://proceedings.neurips.cc/paper_files/paper/2023/file/3ec6c6fc9065aa57785eb05dffe7c3db-Paper-Conference.pdf)**<br />
    **Zhihao Wu**, Zhao Zhang, Jicong Fan <br />
-   *Advances in Neural Information Processing Systems* <br />
+   *Advances in Neural Information Processing Systems 2023* <br />
    [\[BibTex\]](https://dblp.org/rec/conf/nips/WuZF23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/GCKM)
 </div></div>
 
@@ -113,8 +114,17 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <div class='paper-box-text' markdown="1">
 **[Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning](IMVGCN-TMM2023.pdf)**<br />
    **Zhihao Wu**, Xincan Lin, Zhenghong Lin, Zhaoliang Chen, Yang Bai, Shiping Wang <br />
-   *IEEE Transactions on Multimedia* <br />
+   *IEEE Transactions on Multimedia, 2023* <br />
    [\[BibTex\]](https://dblp.org/rec/journals/tmm/WuLLCBW23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/ZhihaoWu99/IMvGCN)
+</div></div>
+
+<!-- 6. ChenMSHTrans25 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/MSHTrans.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks](DLRGAE_AAAI2023.pdf)**<br />
+  Zhaoliang Chen, **Zhihao Wu**, William K. Cheung, Hong-Ning Dai, Byron Choi, Jiming Liu <br />
+   *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2025* <br />
+   [\[BibTex\]]() &nbsp; [\[Code\]](https://github.com/chenzl23/MSHTrans)
 </div></div>
 
 <!-- 6. ChenDLRGAE22 -->
@@ -149,7 +159,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <div class='paper-box-text' markdown="1">
 **[AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing](AGNN2023.pdf)**<br />
    Zhaoliang Chen, **Zhihao Wu**, Zhenghong Lin, Shiping Wang, Claudia Plant, Wenzhong Guo <br />
-   *IEEE Transactions on Neural Networks and Learning Systems* <br />
+   *IEEE Transactions on Neural Networks and Learning Systems, 2023* <br />
    [\[BibTex\]](https://dblp.org/rec/journals/tnn/ChenWLWPG24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/chenzl23/AGNN)
 </div></div>
 
@@ -158,7 +168,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <div class='paper-box-text' markdown="1">
 **[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://arxiv.org/pdf/2304.06336)**<br />
    Zhaoliang Chen, **Zhihao Wu**, Luying Zhong, Claudia Plant, Shiping Wang, Wenzhong Guo <br />
-   *Neural Networks* <br />
+   *Neural Networks, 2023* <br />
    [\[BibTex\]]() &nbsp; [\[Code\]](https://github.com/chenzl23/AMOGCN)
 </div></div> -->
 
@@ -167,7 +177,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <div class='paper-box-text' markdown="1">
 **[Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/abstract/document/10462517/)**<br />
    Jielong Lu, **Zhihao Wu**, Luying Zhong, Zhaoliang Chen, Hong Zhao, Shiping Wang <br />
-   *IEEE Transactions on Multimedia* <br />
+   *IEEE Transactions on Multimedia, 2024* <br />
    [\[BibTex\]](https://dblp.org/rec/journals/tmm/LuWZCZW24.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/long319/GEGCN)
 </div></div> -->
 
@@ -176,7 +186,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <div class='paper-box-text' markdown="1">
 **[Joint Learning of Feature and Topology for Multi-view Graph Convolutional Network](JFGCN_NN2023.pdf)**<br />
    Yuhong Chen, **Zhihao Wu**, Zhaoliang Chen, Mianxiong Dong, Shiping Wang <br />
-   *Neural Networks* <br />
+   *Neural Networks, 2023* <br />
    [\[BibTex\]](https://dblp.org/rec/journals/nn/ChenWCDW23.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/YuhongChen2320/JFGCN)
 </div></div> -->
 
@@ -188,22 +198,22 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
    *AAAI Conference on Artificial Intelligence 2025* <br />
 </div></div>
 
-<!-- 14. du2024UMCGL -->
+<!-- 14. du2024UMCGL
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/UMCGL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[UMCGL: Universal Multi-view Consensus Graph Learning with Consistency and Diversity](https://ieeexplore.ieee.org/abstract/document/10539072/)**<br />
    Shide Du, Zhiling Cai, **Zhihao Wu**, Yueyang Pi, Shiping Wang <br />
-   *IEEE Transactions on Image Process* <br />
-</div></div>
+   *IEEE Transactions on Image Process, 2024* <br />
+</div></div> -->
 
-<!-- 15. zhong2023lgcn -->
+<!-- 15. zhong2023lgcn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/LGCN-SGIB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Learnable Graph Convolutional Network With Semisupervised Graph Information Bottleneck](LGCN_TNNLS2023.pdf)**<br />
    Luying Zhong, Zhaoliang Chen, **Zhihao Wu**, Shide Du, Zheyi Chen, Shiping Wang <br />
-   *IEEE Transactions on Neural Networks and Learning Systems* <br />
+   *IEEE Transactions on Neural Networks and Learning Systems, 2023* <br />
    [\[BibTex\]](https://dblp.org/rec/journals/tnn/ZhongCWDCW25.html?view=bibtex)
-</div></div>
+</div></div> -->
 
 <!-- 16. zhuang2024enhancing -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/CGNN.jpg' alt="sym" width="100%"></div></div>
