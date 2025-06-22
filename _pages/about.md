@@ -256,6 +256,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
   - NeurIPS 2024, 2025
   - CVPR 2025
   - IJCAI 2025
+  - ACL 2025
   - KDD 2025
   - ICCV 2025
   - ECCV 2024
