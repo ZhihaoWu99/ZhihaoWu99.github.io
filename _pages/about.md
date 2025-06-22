@@ -66,10 +66,18 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
    [\[BibTex\]]()
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE</div><img src='images/ADEdgeDrop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks]()**<br />
+   Zhaoliang Chen<sup>†</sup>, **Zhihao Wu<sup>†</sup>**, Ylli Sadikaj, Claudia Plant, Hong-Ning Dai, Shiping Wang, Yiu-Ming Cheung, Wenzhong Guo <br />
+   *IEEE Transactions on Knowledge and Data Engineering, 2025* <br />
+   [\[BibTex\]]()
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/ACGL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[A Centrality-based Graph Learning Framework]()**<br />
-   Jiajun Yu, **Zhihao Wu<sup>†</sup>**, Jielong Lu, Tianyue Wang, Haishuai Wang <br />
+   Jiajun Yu<sup>†</sup>, **Zhihao Wu<sup>†</sup>**, Jielong Lu, Tianyue Wang, Haishuai Wang <br />
    *International Joint Conference on Artificial Intelligence 2025* <br />
    [\[BibTex\]]()
 </div></div>
@@ -87,7 +95,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/KerRead.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Kernel Readout for Graph Neural Networks](https://www.ijcai.org/proceedings/2024/0277.pdf)**<br />
-   Jiajun Yu, **Zhihao Wu<sup>†</sup>**, Jia Adele Lu, Jicong Fan <br />
+   Jiajun Yu<sup>†</sup>, **Zhihao Wu<sup>†</sup>**, Jia Adele Lu, Jicong Fan <br />
    *International Joint Conference on Artificial Intelligence 2024* <br />
    [\[BibTex\]](https://dblp.org/rec/conf/ijcai/Yu0CJ024.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/jiajunCAU/KerRead)
 </div></div>
