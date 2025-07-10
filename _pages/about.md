@@ -61,7 +61,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/MMoG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Divide and Conquer: Coordinating Multiplex Mixture of Graph Learners to Handle Multi-Omics Analysis]()**<br />
-   **Zhihao Wu**, Jielong Lu, Jiajun Yu, Sheng Zhou, Yueyang Pi, Haishuai Wang <br />
+   **Zhihao Wu†**, Jielong Lu†, Jiajun Yu, Sheng Zhou, Yueyang Pi, Haishuai Wang <br />
    *International Joint Conference on Artificial Intelligence 2025* <br />
    [\[BibTex\]]()
 </div></div>
@@ -130,7 +130,7 @@ I am an incoming PhD student with the College of Computer Science, Zhejiang Univ
 <!-- 6. ChenMSHTrans25 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/MSHTrans.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**[Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks](DLRGAE_AAAI2023.pdf)**<br />
+**[MSHTrans: Multi-Scale Hypergraph Transformer with Time-Series Decomposition for Temporal Anomaly Detection]()**<br />
   Zhaoliang Chen, **Zhihao Wu**, William K. Cheung, Hong-Ning Dai, Byron Choi, Jiming Liu <br />
    *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2025* <br />
    [\[BibTex\]]() &nbsp; [\[Code\]](https://github.com/chenzl23/MSHTrans)
