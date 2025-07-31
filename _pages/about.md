@@ -274,6 +274,7 @@ I am currently pursuing my Ph.D. at the College of Computer Science, Zhejiang Un
   - ICML 2025
   - NeurIPS 2024, 2025
   - CVPR 2025
+  - AAAI 2026
   - IJCAI 2025
   - ACL 2025
   - KDD 2025
