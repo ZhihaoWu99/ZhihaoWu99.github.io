@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Ph.D. at the College of Computer Science, Zhejiang University, advised by [Prof. Haishuai Wang](https://person.zju.edu.cn/haishuaiwang), and also a visiting student at the Institute of Medicine, China Academy of Sciences. I am fortunate to collaborate closely with [Prof. Jiajun Bu](https://person.zju.edu.cn/bjj) and [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/). I received my master's degree from the College of Computer and Data Science, Fuzhou University, under the guidance of [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm) and [Dr. Zhaoliang Chen](https://chenzl23.github.io/). During my master's studies, I was also a visiting student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen, fortunately to be advised by [Prof. Jicong Fan](https://jicongfan.github.io/). Prior to this, I completed my B.E. in Computer Science at the College of Mathematics and Computer Science, Fuzhou University, in 2021. My research interests lie in graph-based machine learning and graph neural networks. I have published papers in several prestigious conferences and journals, including NeurIPS, KDD, AAAI, IJCAI, ACM MM, IEEE TKDE, TIP, TNNLS, TMM, Information Fusion, and Pattern Recognition etc. My recent research interests mainly focus on graph-based machine learning, AI4Science, and LLMs. <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhihaowu99%2Fzhihaowu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang University under the supervision of [Prof. Haishuai Wang](https://person.zju.edu.cn/haishuaiwang), with the [EAGLE Lab](http://eagle.zju.edu.cn/) led by [Prof. Jiajun Bu](https://person.zju.edu.cn/bjj). I am also a visiting student at the Institute of Medicine, China Academy of Sciences. I am delighted to collaborate closely with [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/). I received my master's degree from the College of Computer and Data Science, Fuzhou University, under the guidance of [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm) and [Dr. Zhaoliang Chen](https://chenzl23.github.io/). During my master's studies, I was also a visiting student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen, fortunately to be advised by [Prof. Jicong Fan](https://jicongfan.github.io/). Prior to this, I completed my B.E. in Computer Science at the College of Mathematics and Computer Science, Fuzhou University, in 2021. My research interests lie in graph-based machine learning and graph neural networks. I have published papers in several prestigious conferences and journals, including NeurIPS, KDD, AAAI, IJCAI, ACM MM, IEEE TKDE, TIP, TNNLS, TMM, Information Fusion, and Pattern Recognition etc. My recent research interests mainly focus on graph-based machine learning, AI4Science, and LLMs. <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhihaowu99%2Fzhihaowu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📰 News
 - *2025.08*:  One paper have been accepted by *Information Fusion*, congrats to Shuman Zhuang and other collaborators!✨✨
@@ -264,10 +264,11 @@ I am currently pursuing my Ph.D. at the College of Computer Science, Zhejiang Un
   - ACM Transactions on Knowledge Discovery from Data
   - Machine Learning
   - Pattern Recognition
-  - Neural Networks
   - Knowledge-Based Systems
-  - Information Sciences
   - Engineering Applications of Artificial Intelligence
+  - Neural Networks
+  - Information Sciences
+  - Neurocomputing
   - Neural Processing Letters
 - **Conference PC Member**
   - ICLR 2025
