@@ -149,10 +149,10 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFORM FUSION</div><img src='images/SFGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**[Dissecting vulnerability in information fusion process of graph convolutional networks]()**<br />
+**[Dissecting vulnerability in information fusion process of graph convolutional networks](https://www.sciencedirect.com/science/article/abs/pii/S1566253525006086)**<br />
    Shuman Zhuang, **Zhihao Wu**, Jicong Fan, Jiali Yin, Zhaoliang Chen, Wei Huang, Ximeng Liu <br />
    *Information Fusion 2025* <br />
-   [\[BibTex\]]()
+   [\[BibTex\]](https://scholar.googleusercontent.com/scholar.bib?q=info:YincebuiFd8J:scholar.google.com/&output=citation&scisdr=CgKERWwaEOD-4mCDhY8:AAZF9b8AAAAAaKGFnY_rBf__mvVgJwBuDyClDRc&scisig=AAZF9b8AAAAAaKGFnSY-vLZjHzam5M6zXkTE5Uc&scisf=4&ct=citation&cd=-1&hl=en)
 </div></div>
 
 <!-- 6. ChenDLRGAE22 -->
@@ -194,7 +194,7 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
 <!-- 10. chen2023attributed
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUNET</div><img src='images/AMOGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://arxiv.org/pdf/2304.06336)**<br />
+**[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://www.sciencedirect.com/science/article/abs/pii/S0893608024001497)**<br />
    Zhaoliang Chen, **Zhihao Wu**, Luying Zhong, Claudia Plant, Shiping Wang, Wenzhong Guo <br />
    *Neural Networks, 2023* <br />
    [\[BibTex\]]() &nbsp; [\[Code\]](https://github.com/chenzl23/AMOGCN)
@@ -224,6 +224,7 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
 **[Mixture of Experts as Representation Learner for Deep Multi-view Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/34430)**<br />
    Yunhe Zhang, Jinyu Cai, **Zhihao Wu**, Pengyang Wang, See-Kiong Ng <br />
    *AAAI Conference on Artificial Intelligence 2025* <br />
+  [\[BibTex\]](https://dblp.org/rec/conf/aaai/0001C0WN25.html?view=bibtex) &nbsp; [\[Code\]](https://github.com/wownice333/DMVC-CE)
 </div></div>
 
 <!-- 14. du2024UMCGL
