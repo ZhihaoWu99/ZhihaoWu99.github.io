@@ -21,9 +21,9 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
 
 # 📰 News
 - *2025.08*:  One paper have been accepted by *Information Fusion*, congrats to Shuman Zhuang and other collaborators!✨✨
+- *2025.07*:  One paper have been accepted by *ACM MM'25*, congrats to [Jielong Lu](https://scholar.google.com/citations?user=kvhyb9UAAAAJ&hl=en) and other collaborators!✨✨
 - *2025.06*:  One paper have been accepted by *IEEE TKDE*, many thanks to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!✨✨
 - *2025.05*:  One paper have been accepted by *KDD'25*, congrats to [Zhaoliang Chen](https://chenzl23.github.io/) and other collaborators!✨✨
-- *2025.05*:  I will be pursuing my PhD in Computer Science at Zhejiang University, beginning Fall 2025!✨✨
 - *2025.04*:  Four papers have been accepted by *IJCAI'25*, many thanks to all my collaborators!✨✨
 - *2024.12*:  Two papers have been accepted by *AAAI'25*, congrats to [Yunhe Zhang](https://scholar.google.com/citations?user=xODtRUwAAAAJ), Shuman Zhuang and other collaborators!✨✨
 - *2024.11*:  One paper has been accepted by *Neural Networks*, congrats to [Yuhong Chen](https://scholar.google.com/citations?user=l0LYH7kAAAAJ) and other collaborators!✨✨
@@ -266,6 +266,7 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
 - **Journal Reviewer**
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
   - IEEE Transactions on Image Processing
+  - IEEE Transactions on Knowledge and Data Engineering
   - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE/CAA Journal of Automatica Sinica
   - IEEE Transactions on Network Science and Engineering
@@ -273,6 +274,7 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
   - ACM Transactions on Knowledge Discovery from Data
   - Machine Learning
   - Pattern Recognition
+  - Information Fusion
   - Knowledge-Based Systems
   - Engineering Applications of Artificial Intelligence
   - Neural Networks
@@ -283,7 +285,7 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
   - ICLR 2025
   - ICML 2025
   - NeurIPS 2024, 2025
-  - CVPR 2025
+  - CVPR 2025, 2026
   - AAAI 2026
   - IJCAI 2025
   - ACL 2025
