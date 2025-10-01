@@ -283,7 +283,7 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
   - Neurocomputing
   - Neural Processing Letters
 - **Conference PC Member**
-  - ICLR 2025
+  - ICLR 2025, 2026
   - ICML 2025
   - NeurIPS 2024, 2025
   - CVPR 2025, 2026
@@ -294,7 +294,7 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
   - ICCV 2025
   - ECCV 2024
   - ACM MM 2024, 2025
-  - WWW 2025
+  - WWW 2025, 2026
   - AISTATS 2025, 2026
  
 # ⭐ Honors and Awards
