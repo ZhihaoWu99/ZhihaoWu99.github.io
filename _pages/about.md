@@ -150,6 +150,15 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
 </div></div>
 
 <!-- 6. ChenMSHTrans25 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/VHMGD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Where Views Meet Curves: Virtual Anchors for Hyperbolic Multi-View Graph Diffusion]()**<br />
+  Jielong Lu, **Zhihao Wu**, Jiajun Yu, Qianqian Wang, Jiajun Bu, Haishuai Wang <br />
+   *ACM International Conference on Multimedia 2025* <br />
+   [\[BibTex\]]()
+</div></div>
+
+<!-- 6. ChenMSHTrans25 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/MSHTrans.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[MSHTrans: Multi-Scale Hypergraph Transformer with Time-Series Decomposition for Temporal Anomaly Detection]()**<br />
