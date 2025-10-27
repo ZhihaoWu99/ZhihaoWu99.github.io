@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang University under the supervision of [Prof. Haishuai Wang](https://person.zju.edu.cn/haishuaiwang), with the [EAGLE Lab](http://eagle.zju.edu.cn/) led by [Prof. Jiajun Bu](https://person.zju.edu.cn/bjj). I am also a visiting student at the Hangzhou Institute of Medicine, China Academy of Sciences. I am delighted to collaborate closely with [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/). I received my master's degree from the College of Computer and Data Science, Fuzhou University, under the guidance of [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm) and [Dr. Zhaoliang Chen](https://chenzl23.github.io/). During my master's studies, I was also a visiting student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen, fortunately to be advised by [Prof. Jicong Fan](https://jicongfan.github.io/). Prior to this, I completed my B.E. in Computer Science at the College of Mathematics and Computer Science, Fuzhou University, in 2021. I have published papers in several prestigious conferences and journals, including NeurIPS, KDD, AAAI, IJCAI, ACM MM, IEEE TKDE, TIP, TNNLS, TMM, Information Fusion, and Pattern Recognition etc. My recent research interests mainly focus on graph-based machine learning, AI4Science, and LLMs. <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhihaowu99%2Fzhihaowu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang University under the supervision of [Prof. Haishuai Wang](https://person.zju.edu.cn/haishuaiwang), with the [EAGLE Lab](http://eagle.zju.edu.cn/) led by [Prof. Jiajun Bu](https://person.zju.edu.cn/bjj). I am also a visiting student at the Hangzhou Institute of Medicine, China Academy of Sciences. I am delighted to collaborate closely with [Prof. Hong-Ning Dai](https://www.comp.hkbu.edu.hk/~henrydai/). I received my master's degree from the College of Computer and Data Science, Fuzhou University, under the guidance of [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm) and [Dr. Zhaoliang Chen](https://chenzl23.github.io/). During my master's studies, I was also a visiting student at the School of Data Science, The Chinese University of Hong Kong, fortunately advised by [Prof. Jicong Fan](https://jicongfan.github.io/). Prior to this, I completed my B.E. in Computer Science at the College of Mathematics and Computer Science, Fuzhou University, in 2021. I have published papers in several prestigious conferences and journals, including NeurIPS, KDD, AAAI, IJCAI, ACM MM, IEEE TKDE, TIP, TNNLS, TMM, Information Fusion, and Pattern Recognition, etc. My recent research interests focus on graph-based machine learning and AI4Science. <a href='https://scholar.google.com/citations?user=QDlGhPsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhihaowu99%2Fzhihaowu99.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📰 News
 - *2025.09*:  One paper have been accepted by *NeurIPS'25*, many thanks to all my collaborators!✨✨
@@ -49,18 +49,28 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
 
 </details>
 
-# 📖 Experience
+# 📖 Educations
 - *2025.09 - Present*: &nbsp; Ph.D. Student, College of Computer Science and Technology, Zhejiang University.
+- *2021.09 - 2024.06*: &nbsp; M.E. in Artificial Intelligence, College of Computer and Data Science, Fuzhou University.
+- *2017.09 - 2021.06*: &nbsp; B.E. in Computer Science, College of Mathematics and Computer Science, Fuzhou University.
+
+# 📖 Internships
 - *2025.07 - Present*: &nbsp; Visiting Student, Hangzhou Institute of Medicine, China Academy of Sciences.
 - *2024.11 - 2025.07*: &nbsp; Research Assistant, College of Computer Science and Technology, Zhejiang University.
-- *2021.09 - 2024.06*: &nbsp; M.E. in Artificial Intelligence, College of Computer and Data Science, Fuzhou University.
 - *2023.02 - 2023.09*: &nbsp; Visiting Student, School of Data Science, The Chinese University of Hong Kong.
-- *2017.09 - 2021.06*: &nbsp; B.E. in Computer Science, College of Mathematics and Computer Science, Fuzhou University.
 
 # 📝 Selected Publications 
 <p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:5px;">
 <sup>†</sup> indicates co-first author; * indicates corresponding author. <a href="https://scholar.google.com/citations?user=QDlGhPsAAAAJ" target="_blank">Full List</a>
 </p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/MCGE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts]()**<br />
+  Zhihao Wu<sup>†</sup>, Jinyu Cai<sup>†</sup>, Yunhe Zhang, Jielong Lu, Zhaoliang Chen, Shuman Zhuang, Haishuai Wang <br />
+   *Advances in Neural Information Processing Systems 2025* <br />
+   [\[BibTex\]]()
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE</div><img src='images/ADEdgeDrop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
