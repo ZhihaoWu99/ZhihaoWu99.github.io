@@ -60,7 +60,7 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
 - *2023.02 - 2023.09*: &nbsp; Visiting Student, School of Data Science, The Chinese University of Hong Kong.
 
 # 📝 Selected Publications 
-<p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:5px;">
+<p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:10px;">
 <sup>†</sup> indicates co-first author; * indicates corresponding author. <a href="https://scholar.google.com/citations?user=QDlGhPsAAAAJ" target="_blank">Full List</a>
 </p>
 
