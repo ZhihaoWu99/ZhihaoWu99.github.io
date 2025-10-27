@@ -1,10 +1,9 @@
 <div class='paper-box'>
-<div class='paper-box-text' markdown="1">
 **[NeurIPS 2025]** **[Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts]()**<br />
 **Zhihao Wu<sup>†</sup>**, Jinyu Cai<sup>†</sup>, Yunhe Zhang, Jielong Lu, Zhaoliang Chen, Shuman Zhuang, Haishuai Wang <br />
 *Advances in Neural Information Processing Systems 2025* <br />
 [\[BibTex\]]()
-</div></div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
