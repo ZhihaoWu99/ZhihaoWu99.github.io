@@ -67,7 +67,7 @@ I am currently pursuing my Ph.D. in the College of Computer Science at Zhejiang 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/MCGE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts]()**<br />
-  Zhihao Wu<sup>†</sup>, Jinyu Cai<sup>†</sup>, Yunhe Zhang, Jielong Lu, Zhaoliang Chen, Shuman Zhuang, Haishuai Wang <br />
+  **Zhihao Wu<sup>†</sup>**, Jinyu Cai<sup>†</sup>, Yunhe Zhang, Jielong Lu, Zhaoliang Chen, Shuman Zhuang, Haishuai Wang <br />
    *Advances in Neural Information Processing Systems 2025* <br />
    [\[BibTex\]]()
 </div></div>
