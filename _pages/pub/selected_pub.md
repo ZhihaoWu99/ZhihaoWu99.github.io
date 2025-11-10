@@ -1,4 +1,4 @@
-**[NeurIPS 2025]** [Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts]()<br />
+<span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> [Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts]()<br />
 **Zhihao Wu<sup>†</sup>**, Jinyu Cai<sup>†</sup>, Yunhe Zhang, Jielong Lu, Zhaoliang Chen, Shuman Zhuang, Haishuai Wang <br />
 *Advances in Neural Information Processing Systems 2025* \|  [\[BibTex\]]()
 <br />
