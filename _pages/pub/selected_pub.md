@@ -1,4 +1,4 @@
-#### 2026
+### 2026
 
 <span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">AAAI 2026</span> [From Coexistence to Collaboration: Unifying Heterogeneous Models for Text-Attributed Graph Learning]() <br />
 **Zhihao Wu**, Jielong Lu, Zihan Fang, Jinyu Cai, Guanyong Chen, Jiajun Bu, Haishuai Wang <br />
@@ -15,9 +15,7 @@ Yusong Wang, Jialun Shen, **Zhihao Wu**, Yicheng Xu, Shiyin Tan, Mingkun Xu, Cha
 *AAAI Conference on Artificial Intelligence 2026* \|  [\[BibTex\]]()
 <br />
 
----
-
-#### 2025
+### 2025
 
 <span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">NeurIPS 2025</span> [Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts]() <br />
 **Zhihao Wu<sup>†</sup>**, Jinyu Cai<sup>†</sup>, Yunhe Zhang, Jielong Lu, Zhaoliang Chen, Shuman Zhuang, Haishuai Wang <br />
@@ -29,7 +27,7 @@ Zhaoliang Chen<sup>†</sup>, **Zhihao Wu<sup>†</sup>**, Ylli Sadikaj, Claudia
 *IEEE Transactions on Knowledge and Data Engineering, 2025* \|  [\[BibTex\]]()
 <br />
 
-<span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">KDD 2025</span> [Where Views Meet Curves: Virtual Anchors for Hyperbolic Multi-View Graph Diffusion]() <br />
+<span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">ACM MM 2025</span> [Where Views Meet Curves: Virtual Anchors for Hyperbolic Multi-View Graph Diffusion]() <br />
 Jielong Lu, **Zhihao Wu**, Jiajun Yu, Qianqian Wang, Jiajun Bu, Haishuai Wang <br />
 *ACM International Conference on Multimedia 2025* \|  [\[BibTex\]]()
 <br />
@@ -74,9 +72,7 @@ Yunhe Zhang, Jinyu Cai, **Zhihao Wu**, Pengyang Wang, See-Kiong Ng <br />
 *AAAI Conference on Artificial Intelligence 2025* \|  [\[BibTex\]](https://dblp.org/rec/conf/aaai/0001C0WN25.html?view=bibtex) [\[Code\]](https://github.com/wownice333/DMVC-CE)
 <br />
 
----
-
-#### 2024
+### 2024
 
 <span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">IJCAI 2024</span> [Kernel Readout for Graph Neural Networks](https://www.ijcai.org/proceedings/2024/0277.pdf) <br />
 Jiajun Yu<sup>†</sup>, **Zhihao Wu<sup>†</sup>**, Jia Adele Lu, Jicong Fan <br />
@@ -103,9 +99,7 @@ Shuman Zhuang, Sujia Huang, Wei Huang, Yuhong Chen, **Zhihao Wu**, Ximeng Liu <b
 *ACM International Conference on Multimedia 2024* \|  [\[BibTex\]](https://dblp.org/rec/conf/mm/ZhuangH0C0L24.html?view=bibtex) [\[Code\]](https://github.com/shumanzhuang/CGNN)
 <br />
 
----
-
-#### 2023
+### 2023
 
 <span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">NeurIPS 2023</span> [Graph Convolutional Kernel versus Graph Convolutional Networks](httpsS://proceedings.neurips.cc/paper_files/paper/2023/file/3ec6c6fc9065aa57785eb05dffe7c3db-Paper-Conference.pdf) <br />
 **Zhihao Wu**, Zhao Zhang, Jicong Fan <br />
