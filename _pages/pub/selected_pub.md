@@ -1,4 +1,4 @@
-### 2026
+## 2025
 
 <span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">AAAI 2026</span> [From Coexistence to Collaboration: Unifying Heterogeneous Models for Text-Attributed Graph Learning]() <br />
 **Zhihao Wu**, Jielong Lu, Zihan Fang, Jinyu Cai, Guanyong Chen, Jiajun Bu, Haishuai Wang <br />
@@ -11,11 +11,9 @@ Jie Lian<sup>†</sup>, **Zhihao Wu<sup>†</sup>**, Jielong Lu, Jiajun Yu, Qian
 <br />
 
 <span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">AAAI 2026</span> [M$^\text{2}$PG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning]() <br />
-Yusong Wang, Jialun Shen, **Zhihao Wu**, Yicheng Xu, Shiyin Tan, Mingkun Xu, Changshuo Wang, Zixing Song, Prayag Tiwari
+Yusong Wang, Jialun Shen, **Zhihao Wu**, Yicheng Xu, Shiyin Tan, Mingkun Xu, Changshuo Wang, Zixing Song, Prayag Tiwari <br />
 *AAAI Conference on Artificial Intelligence 2026* \|  [\[BibTex\]]()
 <br />
-
-### 2025
 
 <span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">NeurIPS 2025</span> [Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts]() <br />
 **Zhihao Wu<sup>†</sup>**, Jinyu Cai<sup>†</sup>, Yunhe Zhang, Jielong Lu, Zhaoliang Chen, Shuman Zhuang, Haishuai Wang <br />
@@ -62,6 +60,7 @@ Shuman Zhuang, **Zhihao Wu**, Yuhong Chen, Zihan Fang, Jiali Yin, Ximeng Liu <br
 *International Joint Conference on Artificial Intelligence 2025* \|  [\[BibTex\]]()
 <br />
 
+## 2024
 <span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">AAAI 2025</span> [Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement](https://ojs.aaai.org/index.php/AAAI/article/view/33471) <br />
 Shuman Zhuang, **Zhihao Wu\***, Zhaoliang Chen, Hong-Ning Dai, Ximeng Liu <br />
 *AAAI Conference on Artificial Intelligence 2025* \|  [\[BibTex\]](https://dblp.org/rec/conf/aaai/Zhuang0CDL25.html?view=bibtex) [\[Code\]](https://github.com/shumanzhuang/GRANCE)
@@ -72,16 +71,14 @@ Yunhe Zhang, Jinyu Cai, **Zhihao Wu**, Pengyang Wang, See-Kiong Ng <br />
 *AAAI Conference on Artificial Intelligence 2025* \|  [\[BibTex\]](https://dblp.org/rec/conf/aaai/0001C0WN25.html?view=bibtex) [\[Code\]](https://github.com/wownice333/DMVC-CE)
 <br />
 
-### 2024
+<span style="background-color:#D48686; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">PR</span> [Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158) <br />
+**Zhihao Wu**, Zhaoliang Chen, Shide Du, Sujia Huang, Shiping Wang <br />
+*Pattern Recognition, 2024* \|  [\[BibTex\]](https://dblp.org/rec/journals/pr/WuCDHW24.html?view=bibtex) [\[Code\]](https://github.com/ZhihaoWu99/GCNet)
+<br />
 
 <span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">IJCAI 2024</span> [Kernel Readout for Graph Neural Networks](https://www.ijcai.org/proceedings/2024/0277.pdf) <br />
 Jiajun Yu<sup>†</sup>, **Zhihao Wu<sup>†</sup>**, Jia Adele Lu, Jicong Fan <br />
 *International Joint Conference on Artificial Intelligence 2024* \|  [\[BibTex\]](https://dblp.org/rec/conf/ijcai/Yu0CJ024.html?view=bibtex) [\[Code\]](https://github.com/jiajunCAU/KerRead)
-<br />
-
-<span style="background-color:#D48686; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">PR</span> [Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158) <br />
-**Zhihao Wu**, Zhaoliang Chen, Shide Du, Sujia Huang, Shiping Wang <br />
-*Pattern Recognition, 2024* \|  [\[BibTex\]](https://dblp.org/rec/journals/pr/WuCDHW24.html?view=bibtex) [\[Code\]](https://github.com/ZhihaoWu99/GCNet)
 <br />
 
 <span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">ACM MM 2024</span> [Towards Multi-view Consistent Graph Diffusion](httpsD://dl.acm.org/doi/pdf/10.1145/3664647.3681258) <br />
@@ -99,7 +96,7 @@ Shuman Zhuang, Sujia Huang, Wei Huang, Yuhong Chen, **Zhihao Wu**, Ximeng Liu <b
 *ACM International Conference on Multimedia 2024* \|  [\[BibTex\]](https://dblp.org/rec/conf/mm/ZhuangH0C0L24.html?view=bibtex) [\[Code\]](https://github.com/shumanzhuang/CGNN)
 <br />
 
-### 2023
+## 2023
 
 <span style="background-color:#628FC6; color:white; padding:2px 4px; border-radius:3px; font-weight:bold;">NeurIPS 2023</span> [Graph Convolutional Kernel versus Graph Convolutional Networks](httpsS://proceedings.neurips.cc/paper_files/paper/2023/file/3ec6c6fc9065aa57785eb05dffe7c3db-Paper-Conference.pdf) <br />
 **Zhihao Wu**, Zhao Zhang, Jicong Fan <br />
